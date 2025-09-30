@@ -1,0 +1,1566 @@
+0.012915644,576376466,,cpu-cycles,24165897,17,,
+0.012915644,598560564,,instructions,31857891,22,1.04,insn per cycle
+0.012915644,583175,,cache-references,43810882,31,,
+0.012915644,211752,,cache-misses,55898116,40,36.31,of all cache refs
+0.012915644,47999897,,L1-dcache-loads,55905753,40,,
+0.012915644,403625,,L1-dcache-load-misses,56658185,40,0.84,of all L1-dcache accesses
+0.012915644,29886680,,L1-dcache-stores,67750915,48,,
+0.012915644,<not supported>,,L1-dcache-store-misses,0,100,,
+0.012915644,97291,,l2_rqsts.demand_data_rd_hit,79735052,57,,
+0.012915644,9568,,l2_rqsts.demand_data_rd_miss,47809880,34,,
+0.012915644,11052,,LLC-loads,47909360,34,,
+0.012915644,1690,,LLC-load-misses,47790047,34,15.29,of all LL-cache accesses
+0.012915644,88768,,LLC-stores,23878663,17,,
+0.012915644,84578,,LLC-store-misses,23227536,16,,
+0.012915644,47083735,,dTLB-loads,24360401,17,,
+0.012915644,967,,dTLB-load-misses,24464225,17,0,of all dTLB cache accesses
+0.012915644,71251055,,branch-loads,24585940,17,,
+0.012915644,10800783,,branch-load-misses,24690660,17,,
+0.023203438,507798238,,cpu-cycles,59496989,48,,
+0.023203438,553117947,,instructions,71303150,58,1.09,insn per cycle
+0.023203438,140685,,cache-references,83186887,68,,
+0.023203438,78906,,cache-misses,95049391,78,56.09,of all cache refs
+0.023203438,41118549,,L1-dcache-loads,106934883,87,,
+0.023203438,162141,,L1-dcache-load-misses,118120284,97,0.39,of all L1-dcache accesses
+0.023203438,25379924,,L1-dcache-stores,110767670,91,,
+0.023203438,<not supported>,,L1-dcache-store-misses,0,100,,
+0.023203438,46062,,l2_rqsts.demand_data_rd_hit,98880162,81,,
+0.023203438,16277,,l2_rqsts.demand_data_rd_miss,14993063,12,,
+0.023203438,31883,,LLC-loads,3762986,3,,
+0.023203438,<not counted>,,LLC-load-misses,0,0,,
+0.023203438,<not counted>,,LLC-stores,0,0,,
+0.023203438,<not counted>,,LLC-store-misses,0,0,,
+0.023203438,41258698,,dTLB-loads,10610959,8,,
+0.023203438,400,,dTLB-load-misses,22502483,18,0,of all dTLB cache accesses
+0.023203438,62197139,,branch-loads,34541049,28,,
+0.023203438,9436481,,branch-load-misses,46398100,38,,
+0.033373551,504030758,,cpu-cycles,64463944,53,,
+0.033373551,547086181,,instructions,64569871,53,1.09,insn per cycle
+0.033373551,131050,,cache-references,64668622,53,,
+0.033373551,78161,,cache-misses,64766705,53,59.64,of all cache refs
+0.033373551,40943562,,L1-dcache-loads,52889751,43,,
+0.033373551,167336,,L1-dcache-load-misses,41683610,34,0.41,of all L1-dcache accesses
+0.033373551,25415992,,L1-dcache-stores,38180658,31,,
+0.033373551,<not supported>,,L1-dcache-store-misses,0,100,,
+0.033373551,46113,,l2_rqsts.demand_data_rd_hit,38328304,31,,
+0.033373551,8234,,l2_rqsts.demand_data_rd_miss,32825617,26,,
+0.033373551,8241,,LLC-loads,44073479,36,,
+0.033373551,1512,,LLC-load-misses,47699796,39,18.35,of all LL-cache accesses
+0.033373551,77227,,LLC-stores,23690646,19,,
+0.033373551,73429,,LLC-store-misses,23969737,19,,
+0.033373551,40757882,,dTLB-loads,35937141,29,,
+0.033373551,420,,dTLB-load-misses,47772332,39,0,of all dTLB cache accesses
+0.033373551,61765406,,branch-loads,59300675,48,,
+0.033373551,9358278,,branch-load-misses,65400634,53,,
+0.043576505,509353780,,cpu-cycles,19100406,15,,
+0.043576505,552815643,,instructions,30988950,25,1.09,insn per cycle
+0.043576505,125687,,cache-references,42890136,35,,
+0.043576505,81223,,cache-misses,54755520,44,64.62,of all cache refs
+0.043576505,41131095,,L1-dcache-loads,66646926,54,,
+0.043576505,157092,,L1-dcache-load-misses,78546003,64,0.38,of all L1-dcache accesses
+0.043576505,25380262,,L1-dcache-stores,90398419,74,,
+0.043576505,<not supported>,,L1-dcache-store-misses,0,100,,
+0.043576505,42655,,l2_rqsts.demand_data_rd_hit,102278648,84,,
+0.043576505,6944,,l2_rqsts.demand_data_rd_miss,47610192,39,,
+0.043576505,8432,,LLC-loads,43244279,35,,
+0.043576505,166,,LLC-load-misses,31396767,25,1.97,of all LL-cache accesses
+0.043576505,<not counted>,,LLC-stores,0,0,,
+0.043576505,<not counted>,,LLC-store-misses,0,0,,
+0.043576505,<not counted>,,dTLB-loads,0,0,,
+0.043576505,<not counted>,,dTLB-load-misses,0,0,,
+0.043576505,62353326,,branch-loads,441473,0,,
+0.043576505,9440954,,branch-load-misses,6164956,5,,
+0.053723904,477709764,,cpu-cycles,80231891,69,,
+0.053723904,525635485,,instructions,90861508,79,1.1,insn per cycle
+0.053723904,142571,,cache-references,98392761,85,,
+0.053723904,79211,,cache-misses,98495498,85,55.56,of all cache refs
+0.053723904,39207191,,L1-dcache-loads,86650070,75,,
+0.053723904,167582,,L1-dcache-load-misses,74877312,64,0.43,of all L1-dcache accesses
+0.053723904,24187271,,L1-dcache-stores,63304528,54,,
+0.053723904,<not supported>,,L1-dcache-store-misses,0,100,,
+0.053723904,44773,,l2_rqsts.demand_data_rd_hit,52416560,45,,
+0.053723904,14526,,l2_rqsts.demand_data_rd_miss,310127,0,,
+0.053723904,35528,,LLC-loads,4429481,3,,
+0.053723904,2965,,LLC-load-misses,16418538,14,8.35,of all LL-cache accesses
+0.053723904,74851,,LLC-stores,24026299,20,,
+0.053723904,71817,,LLC-store-misses,23801083,20,,
+0.053723904,39564587,,dTLB-loads,35492155,30,,
+0.053723904,829,,dTLB-load-misses,46467732,40,0,of all dTLB cache accesses
+0.053723904,59362967,,branch-loads,58313970,50,,
+0.053723904,9000553,,branch-load-misses,69303789,60,,
+0.063914787,505098078,,cpu-cycles,24475861,20,,
+0.063914787,549699890,,instructions,26019999,21,1.09,insn per cycle
+0.063914787,170255,,cache-references,30411052,24,,
+0.063914787,86755,,cache-misses,42387196,34,50.96,of all cache refs
+0.063914787,41144233,,L1-dcache-loads,43385937,35,,
+0.063914787,174240,,L1-dcache-load-misses,46012040,37,0.42,of all L1-dcache accesses
+0.063914787,25509210,,L1-dcache-stores,57047270,46,,
+0.063914787,<not supported>,,L1-dcache-store-misses,0,100,,
+0.063914787,47683,,l2_rqsts.demand_data_rd_hit,67021162,54,,
+0.063914787,9871,,l2_rqsts.demand_data_rd_miss,45824845,37,,
+0.063914787,9318,,LLC-loads,45014931,36,,
+0.063914787,1074,,LLC-load-misses,44058202,36,11.53,of all LL-cache accesses
+0.063914787,79528,,LLC-stores,21978217,18,,
+0.063914787,76155,,LLC-store-misses,20171902,16,,
+0.063914787,41062933,,dTLB-loads,21165519,17,,
+0.063914787,532,,dTLB-load-misses,22248494,18,0,of all dTLB cache accesses
+0.063914787,62020234,,branch-loads,23330088,19,,
+0.063914787,9379925,,branch-load-misses,24412392,19,,
+0.074147447,508263692,,cpu-cycles,62520641,51,,
+0.074147447,551990736,,instructions,73303649,60,1.09,insn per cycle
+0.074147447,133045,,cache-references,84215908,69,,
+0.074147447,80143,,cache-misses,95134988,78,60.24,of all cache refs
+0.074147447,41103757,,L1-dcache-loads,105038253,86,,
+0.074147447,162201,,L1-dcache-load-misses,111652881,91,0.39,of all L1-dcache accesses
+0.074147447,25384506,,L1-dcache-stores,102954305,84,,
+0.074147447,<not supported>,,L1-dcache-store-misses,0,100,,
+0.074147447,46931,,l2_rqsts.demand_data_rd_hit,91971874,75,,
+0.074147447,7900,,l2_rqsts.demand_data_rd_miss,14013646,11,,
+0.074147447,9455,,LLC-loads,5508700,4,,
+0.074147447,62,,LLC-load-misses,3900667,3,0.66,of all LL-cache accesses
+0.074147447,78392,,LLC-stores,1999836,1,,
+0.074147447,70027,,LLC-store-misses,3794108,3,,
+0.074147447,41305606,,dTLB-loads,14721665,12,,
+0.074147447,260,,dTLB-load-misses,26630270,21,0,of all dTLB cache accesses
+0.074147447,62164513,,branch-loads,38544006,31,,
+0.074147447,9399524,,branch-load-misses,50409563,41,,
+0.084312112,486313900,,cpu-cycles,58301653,49,,
+0.084312112,536775765,,instructions,59389699,50,1.1,insn per cycle
+0.084312112,130835,,cache-references,60472391,51,,
+0.084312112,75461,,cache-misses,60814795,51,57.68,of all cache refs
+0.084312112,39924727,,L1-dcache-loads,50896374,43,,
+0.084312112,163134,,L1-dcache-load-misses,42459945,36,0.41,of all L1-dcache accesses
+0.084312112,24479467,,L1-dcache-stores,40488207,34,,
+0.084312112,<not supported>,,L1-dcache-store-misses,0,100,,
+0.084312112,41442,,l2_rqsts.demand_data_rd_hit,40496850,34,,
+0.084312112,5641,,l2_rqsts.demand_data_rd_miss,33235299,28,,
+0.084312112,8547,,LLC-loads,41682797,35,,
+0.084312112,691,,LLC-load-misses,43904147,37,8.08,of all LL-cache accesses
+0.084312112,77890,,LLC-stores,21989436,18,,
+0.084312112,71758,,LLC-store-misses,21992597,18,,
+0.084312112,40399776,,dTLB-loads,32992361,28,,
+0.084312112,434,,dTLB-load-misses,43974424,37,0,of all dTLB cache accesses
+0.084312112,60658822,,branch-loads,53953769,46,,
+0.084312112,9159547,,branch-load-misses,58377770,49,,
+0.094517,497518151,,cpu-cycles,24822252,20,,
+0.094517,546872014,,instructions,35734176,29,1.1,insn per cycle
+0.094517,149962,,cache-references,46626747,39,,
+0.094517,83079,,cache-misses,57441438,48,55.4,of all cache refs
+0.094517,40468643,,L1-dcache-loads,67348292,56,,
+0.094517,167153,,L1-dcache-load-misses,77881130,65,0.41,of all L1-dcache accesses
+0.094517,24965806,,L1-dcache-stores,87958902,73,,
+0.094517,<not supported>,,L1-dcache-store-misses,0,100,,
+0.094517,42938,,l2_rqsts.demand_data_rd_hit,98013119,82,,
+0.094517,11543,,l2_rqsts.demand_data_rd_miss,43821382,36,,
+0.094517,10563,,LLC-loads,38230348,32,,
+0.094517,2002,,LLC-load-misses,28151392,23,18.95,of all LL-cache accesses
+0.094517,77100,,LLC-stores,2000043,1,,
+0.094517,72939,,LLC-store-misses,1999992,1,,
+0.094517,39639667,,dTLB-loads,2999948,2,,
+0.094517,97,,dTLB-load-misses,3663998,3,0,of all dTLB cache accesses
+0.094517,60151626,,branch-loads,4676169,3,,
+0.094517,9245318,,branch-load-misses,11098472,9,,
+0.104678411,502127002,,cpu-cycles,79183909,65,,
+0.104678411,547055999,,instructions,89530229,74,1.09,insn per cycle
+0.104678411,139726,,cache-references,96076738,79,,
+0.104678411,79087,,cache-misses,97165269,80,56.6,of all cache refs
+0.104678411,40825045,,L1-dcache-loads,87248214,72,,
+0.104678411,163886,,L1-dcache-load-misses,76824170,63,0.4,of all L1-dcache accesses
+0.104678411,25321299,,L1-dcache-stores,67440198,55,,
+0.104678411,<not supported>,,L1-dcache-store-misses,0,100,,
+0.104678411,43847,,l2_rqsts.demand_data_rd_hit,58240643,47,,
+0.104678411,5621,,l2_rqsts.demand_data_rd_miss,5941347,4,,
+0.104678411,8536,,LLC-loads,10679982,8,,
+0.104678411,431,,LLC-load-misses,20242535,16,5.05,of all LL-cache accesses
+0.104678411,75980,,LLC-stores,21994246,18,,
+0.104678411,72050,,LLC-store-misses,22570763,18,,
+0.104678411,40875033,,dTLB-loads,33501406,27,,
+0.104678411,551,,dTLB-load-misses,44610309,36,0,of all dTLB cache accesses
+0.104678411,61828478,,branch-loads,56421083,46,,
+0.104678411,9362120,,branch-load-misses,68230628,56,,
+0.114881467,505964389,,cpu-cycles,24939217,20,,
+0.114881467,550399877,,instructions,26679153,21,1.09,insn per cycle
+0.114881467,173134,,cache-references,32152729,26,,
+0.114881467,91038,,cache-misses,43118908,35,52.58,of all cache refs
+0.114881467,41229457,,L1-dcache-loads,43130361,35,,
+0.114881467,168034,,L1-dcache-load-misses,45987505,37,0.41,of all L1-dcache accesses
+0.114881467,25510965,,L1-dcache-stores,55541983,45,,
+0.114881467,<not supported>,,L1-dcache-store-misses,0,100,,
+0.114881467,45400,,l2_rqsts.demand_data_rd_hit,65592200,53,,
+0.114881467,7640,,l2_rqsts.demand_data_rd_miss,45022478,36,,
+0.114881467,7275,,LLC-loads,46075733,37,,
+0.114881467,467,,LLC-load-misses,46056507,37,6.42,of all LL-cache accesses
+0.114881467,81743,,LLC-stores,21952995,18,,
+0.114881467,74443,,LLC-store-misses,19028608,15,,
+0.114881467,40774710,,dTLB-loads,20438486,16,,
+0.114881467,595,,dTLB-load-misses,21510730,17,0,of all dTLB cache accesses
+0.114881467,61674762,,branch-loads,22603575,18,,
+0.114881467,9357597,,branch-load-misses,23830908,19,,
+0.125101394,507947075,,cpu-cycles,61102641,49,,
+0.125101394,551933308,,instructions,72986926,59,1.09,insn per cycle
+0.125101394,132233,,cache-references,84772905,69,,
+0.125101394,82028,,cache-misses,95846104,78,62.03,of all cache refs
+0.125101394,41115314,,L1-dcache-loads,105533140,86,,
+0.125101394,163654,,L1-dcache-load-misses,108580529,89,0.4,of all L1-dcache accesses
+0.125101394,25408829,,L1-dcache-stores,100215252,82,,
+0.125101394,<not supported>,,L1-dcache-store-misses,0,100,,
+0.125101394,44453,,l2_rqsts.demand_data_rd_hit,90346493,74,,
+0.125101394,9828,,l2_rqsts.demand_data_rd_miss,12358262,10,,
+0.125101394,8962,,LLC-loads,5486370,4,,
+0.125101394,197,,LLC-load-misses,4945655,4,2.2,of all LL-cache accesses
+0.125101394,81251,,LLC-stores,3197296,2,,
+0.125101394,72804,,LLC-store-misses,5929192,4,,
+0.125101394,41256261,,dTLB-loads,16510735,13,,
+0.125101394,222,,dTLB-load-misses,27396053,22,0,of all dTLB cache accesses
+0.125101394,62036750,,branch-loads,38299155,31,,
+0.125101394,9408744,,branch-load-misses,49192522,40,,
+0.135273317,505273522,,cpu-cycles,57903168,47,,
+0.135273317,549382875,,instructions,58991078,48,1.09,insn per cycle
+0.135273317,130133,,cache-references,60074594,49,,
+0.135273317,82331,,cache-misses,61945752,50,63.27,of all cache refs
+0.135273317,41005681,,L1-dcache-loads,51663397,42,,
+0.135273317,163201,,L1-dcache-load-misses,43788874,35,0.4,of all L1-dcache accesses
+0.135273317,25439080,,L1-dcache-stores,42078741,34,,
+0.135273317,<not supported>,,L1-dcache-store-misses,0,100,,
+0.135273317,44152,,l2_rqsts.demand_data_rd_hit,42641433,34,,
+0.135273317,10258,,l2_rqsts.demand_data_rd_miss,36321669,29,,
+0.135273317,13095,,LLC-loads,43219112,35,,
+0.135273317,1242,,LLC-load-misses,44719771,36,9.48,of all LL-cache accesses
+0.135273317,77222,,LLC-stores,22728320,18,,
+0.135273317,74081,,LLC-store-misses,23734226,19,,
+0.135273317,40988104,,dTLB-loads,35164134,28,,
+0.135273317,280,,dTLB-load-misses,45605810,37,0,of all dTLB cache accesses
+0.135273317,61992320,,branch-loads,53880822,44,,
+0.135273317,9391430,,branch-load-misses,57680783,47,,
+0.145469022,508832599,,cpu-cycles,29261241,23,,
+0.145469022,553118378,,instructions,40168608,32,1.09,insn per cycle
+0.145469022,120771,,cache-references,51075440,41,,
+0.145469022,77324,,cache-misses,61983595,50,64.03,of all cache refs
+0.145469022,41147031,,L1-dcache-loads,72474045,59,,
+0.145469022,152064,,L1-dcache-load-misses,83379825,68,0.37,of all L1-dcache accesses
+0.145469022,25397334,,L1-dcache-stores,93296843,76,,
+0.145469022,<not supported>,,L1-dcache-store-misses,0,100,,
+0.145469022,41740,,l2_rqsts.demand_data_rd_hit,101652231,83,,
+0.145469022,5410,,l2_rqsts.demand_data_rd_miss,42909039,35,,
+0.145469022,6402,,LLC-loads,35514597,29,,
+0.145469022,219,,LLC-load-misses,24997171,20,3.42,of all LL-cache accesses
+0.145469022,78544,,LLC-stores,1999991,1,,
+0.145469022,74401,,LLC-store-misses,2000109,1,,
+0.145469022,41007839,,dTLB-loads,3549921,2,,
+0.145469022,298,,dTLB-load-misses,5709578,4,0,of all dTLB cache accesses
+0.145469022,62056789,,branch-loads,9277291,7,,
+0.145469022,9428341,,branch-load-misses,17471941,14,,
+0.155621545,494951335,,cpu-cycles,78775714,66,,
+0.155621545,542216392,,instructions,87914888,73,1.1,insn per cycle
+0.155621545,127910,,cache-references,93339436,78,,
+0.155621545,79072,,cache-misses,94423466,79,61.82,of all cache refs
+0.155621545,40453055,,L1-dcache-loads,84518147,70,,
+0.155621545,171001,,L1-dcache-load-misses,73804957,61,0.42,of all L1-dcache accesses
+0.155621545,25107190,,L1-dcache-stores,63310373,53,,
+0.155621545,<not supported>,,L1-dcache-store-misses,0,100,,
+0.155621545,49970,,l2_rqsts.demand_data_rd_hit,53402788,44,,
+0.155621545,10334,,l2_rqsts.demand_data_rd_miss,5164437,4,,
+0.155621545,7565,,LLC-loads,12351391,10,,
+0.155621545,78,,LLC-load-misses,22873585,19,1.03,of all LL-cache accesses
+0.155621545,74661,,LLC-stores,21985803,18,,
+0.155621545,72021,,LLC-store-misses,21975110,18,,
+0.155621545,40160189,,dTLB-loads,32964076,27,,
+0.155621545,282,,dTLB-load-misses,44332974,37,0,of all dTLB cache accesses
+0.155621545,60706170,,branch-loads,56307078,47,,
+0.155621545,9227242,,branch-load-misses,68082576,57,,
+0.165803379,489498471,,cpu-cycles,15707812,13,,
+0.165803379,534819247,,instructions,18455807,15,1.09,insn per cycle
+0.165803379,144841,,cache-references,25068125,21,,
+0.165803379,76932,,cache-misses,36007926,30,53.11,of all cache refs
+0.165803379,40020334,,L1-dcache-loads,38199872,32,,
+0.165803379,169947,,L1-dcache-load-misses,44065501,37,0.42,of all L1-dcache accesses
+0.165803379,24695641,,L1-dcache-stores,55868385,47,,
+0.165803379,<not supported>,,L1-dcache-store-misses,0,100,,
+0.165803379,45668,,l2_rqsts.demand_data_rd_hit,67781918,57,,
+0.165803379,12946,,l2_rqsts.demand_data_rd_miss,47446749,40,,
+0.165803379,13967,,LLC-loads,47821458,40,,
+0.165803379,627,,LLC-load-misses,47451845,40,4.49,of all LL-cache accesses
+0.165803379,77450,,LLC-stores,20309138,17,,
+0.165803379,69818,,LLC-store-misses,14549270,12,,
+0.165803379,39687298,,dTLB-loads,14605653,12,,
+0.165803379,337,,dTLB-load-misses,14660509,12,0,of all dTLB cache accesses
+0.165803379,60065041,,branch-loads,14714882,12,,
+0.165803379,9104440,,branch-load-misses,14978803,12,,
+0.175994929,505654443,,cpu-cycles,71228604,58,,
+0.175994929,550181645,,instructions,83137763,68,1.09,insn per cycle
+0.175994929,133784,,cache-references,95083488,78,,
+0.175994929,79696,,cache-misses,106117161,87,59.57,of all cache refs
+0.175994929,40948195,,L1-dcache-loads,108493776,89,,
+0.175994929,158863,,L1-dcache-load-misses,108296351,89,0.39,of all L1-dcache accesses
+0.175994929,25305230,,L1-dcache-stores,97130452,79,,
+0.175994929,<not supported>,,L1-dcache-store-misses,0,100,,
+0.175994929,44063,,l2_rqsts.demand_data_rd_hit,85235221,70,,
+0.175994929,5408,,l2_rqsts.demand_data_rd_miss,6951143,5,,
+0.175994929,20391,,LLC-loads,907177,0,,
+0.175994929,842,,LLC-load-misses,1155985,0,4.13,of all LL-cache accesses
+0.175994929,82475,,LLC-stores,6041476,4,,
+0.175994929,75988,,LLC-store-misses,11132118,9,,
+0.175994929,41033263,,dTLB-loads,22991708,18,,
+0.175994929,476,,dTLB-load-misses,34936793,28,0,of all dTLB cache accesses
+0.175994929,61975564,,branch-loads,46837755,38,,
+0.175994929,9361647,,branch-load-misses,58765040,48,,
+0.186157116,504710163,,cpu-cycles,50929295,41,,
+0.186157116,549196399,,instructions,51038003,41,1.09,insn per cycle
+0.186157116,136932,,cache-references,51138976,41,,
+0.186157116,83766,,cache-misses,52137817,42,61.17,of all cache refs
+0.186157116,41037041,,L1-dcache-loads,44721327,36,,
+0.186157116,176408,,L1-dcache-load-misses,38694253,31,0.43,of all L1-dcache accesses
+0.186157116,25451406,,L1-dcache-stores,38722682,31,,
+0.186157116,<not supported>,,L1-dcache-store-misses,0,100,,
+0.186157116,41833,,l2_rqsts.demand_data_rd_hit,42491411,34,,
+0.186157116,5821,,l2_rqsts.demand_data_rd_miss,41029075,33,,
+0.186157116,5967,,LLC-loads,47122400,38,,
+0.186157116,370,,LLC-load-misses,47982775,39,6.2,of all LL-cache accesses
+0.186157116,77670,,LLC-stores,23991518,19,,
+0.186157116,71660,,LLC-store-misses,23988574,19,,
+0.186157116,41044041,,dTLB-loads,35313577,28,,
+0.186157116,279,,dTLB-load-misses,43560098,35,0,of all dTLB cache accesses
+0.186157116,62068692,,branch-loads,49923376,40,,
+0.186157116,9377607,,branch-load-misses,51898324,42,,
+0.196357513,508601674,,cpu-cycles,32677189,26,,
+0.196357513,551263666,,instructions,44505203,36,1.08,insn per cycle
+0.196357513,135128,,cache-references,56369643,46,,
+0.196357513,80380,,cache-misses,68259369,56,59.48,of all cache refs
+0.196357513,41053733,,L1-dcache-loads,80154927,65,,
+0.196357513,160215,,L1-dcache-load-misses,92050030,75,0.39,of all L1-dcache accesses
+0.196357513,25357205,,L1-dcache-stores,102712693,84,,
+0.196357513,<not supported>,,L1-dcache-store-misses,0,100,,
+0.196357513,41691,,l2_rqsts.demand_data_rd_hit,107884216,88,,
+0.196357513,6546,,l2_rqsts.demand_data_rd_miss,38788692,31,,
+0.196357513,6147,,LLC-loads,29737250,24,,
+0.196357513,178,,LLC-load-misses,18371844,15,2.9,of all LL-cache accesses
+0.196357513,<not counted>,,LLC-stores,0,0,,
+0.196357513,<not counted>,,LLC-store-misses,0,0,,
+0.196357513,42230617,,dTLB-loads,664812,0,,
+0.196357513,172,,dTLB-load-misses,4238792,3,0,of all dTLB cache accesses
+0.196357513,62158409,,branch-loads,9862389,8,,
+0.196357513,9401126,,branch-load-misses,19714901,16,,
+0.206509977,505032767,,cpu-cycles,80825890,66,,
+0.206509977,548845755,,instructions,87447453,71,1.09,insn per cycle
+0.206509977,126109,,cache-references,91242790,75,,
+0.206509977,79055,,cache-misses,91347612,75,62.69,of all cache refs
+0.206509977,40978025,,L1-dcache-loads,79448984,65,,
+0.206509977,162185,,L1-dcache-load-misses,67612291,55,0.4,of all L1-dcache accesses
+0.206509977,25378423,,L1-dcache-stores,56254689,46,,
+0.206509977,<not supported>,,L1-dcache-store-misses,0,100,,
+0.206509977,46571,,l2_rqsts.demand_data_rd_hit,47409128,38,,
+0.206509977,5655,,l2_rqsts.demand_data_rd_miss,9060354,7,,
+0.206509977,6058,,LLC-loads,18113279,14,,
+0.206509977,148,,LLC-load-misses,29502975,24,2.44,of all LL-cache accesses
+0.206509977,76414,,LLC-stores,23995724,19,,
+0.206509977,73626,,LLC-store-misses,23934717,19,,
+0.206509977,40912969,,dTLB-loads,35924242,29,,
+0.206509977,411,,dTLB-load-misses,47895278,39,0,of all dTLB cache accesses
+0.206509977,61939458,,branch-loads,59856608,49,,
+0.206509977,9380054,,branch-load-misses,71475579,58,,
+0.216690104,506193631,,cpu-cycles,14362089,11,,
+0.216690104,550210736,,instructions,19693355,16,1.09,insn per cycle
+0.216690104,140813,,cache-references,27902927,22,,
+0.216690104,80892,,cache-misses,39836769,32,57.45,of all cache refs
+0.216690104,41187307,,L1-dcache-loads,44968160,36,,
+0.216690104,167262,,L1-dcache-load-misses,51940414,42,0.41,of all L1-dcache accesses
+0.216690104,25468263,,L1-dcache-stores,63792388,52,,
+0.216690104,<not supported>,,L1-dcache-store-misses,0,100,,
+0.216690104,46092,,l2_rqsts.demand_data_rd_hit,75678695,62,,
+0.216690104,5480,,l2_rqsts.demand_data_rd_miss,47925405,39,,
+0.216690104,6142,,LLC-loads,47763889,39,,
+0.216690104,975,,LLC-load-misses,46090991,37,15.87,of all LL-cache accesses
+0.216690104,76908,,LLC-stores,17114247,14,,
+0.216690104,70945,,LLC-store-misses,11884338,9,,
+0.216690104,40845002,,dTLB-loads,11928412,9,,
+0.216690104,213,,dTLB-load-misses,11971976,9,0,of all dTLB cache accesses
+0.216690104,61853750,,branch-loads,12015045,9,,
+0.216690104,9377602,,branch-load-misses,12371105,10,,
+0.22790731,559012985,,cpu-cycles,72397355,53,,
+0.22790731,608100564,,instructions,84344904,62,1.09,insn per cycle
+0.22790731,138747,,cache-references,96292081,71,,
+0.22790731,94136,,cache-misses,108239290,80,67.85,of all cache refs
+0.22790731,45307833,,L1-dcache-loads,114025671,84,,
+0.22790731,182318,,L1-dcache-load-misses,114010003,84,0.4,of all L1-dcache accesses
+0.22790731,28106115,,L1-dcache-stores,108059203,80,,
+0.22790731,<not supported>,,L1-dcache-store-misses,0,100,,
+0.22790731,48820,,l2_rqsts.demand_data_rd_hit,96281865,71,,
+0.22790731,7600,,l2_rqsts.demand_data_rd_miss,13398109,9,,
+0.22790731,8826,,LLC-loads,6502440,4,,
+0.22790731,129,,LLC-load-misses,2071756,1,1.46,of all LL-cache accesses
+0.22790731,84819,,LLC-stores,6734147,5,,
+0.22790731,78377,,LLC-store-misses,12098038,9,,
+0.22790731,45306147,,dTLB-loads,24048145,17,,
+0.22790731,164,,dTLB-load-misses,36004805,26,0,of all dTLB cache accesses
+0.22790731,68468772,,branch-loads,47950693,35,,
+0.22790731,10363238,,branch-load-misses,59896257,44,,
+0.23806544,505709219,,cpu-cycles,62011557,50,,
+0.23806544,551069019,,instructions,62116354,50,1.09,insn per cycle
+0.23806544,116277,,cache-references,62217983,51,,
+0.23806544,76954,,cache-misses,62321415,51,66.18,of all cache refs
+0.23806544,41097318,,L1-dcache-loads,51412046,42,,
+0.23806544,157954,,L1-dcache-load-misses,44316685,36,0.38,of all L1-dcache accesses
+0.23806544,25449075,,L1-dcache-stores,38378473,31,,
+0.23806544,<not supported>,,L1-dcache-store-misses,0,100,,
+0.23806544,42334,,l2_rqsts.demand_data_rd_hit,39027418,31,,
+0.23806544,5396,,l2_rqsts.demand_data_rd_miss,34453010,28,,
+0.23806544,5098,,LLC-loads,41647704,34,,
+0.23806544,133,,LLC-load-misses,47651225,39,2.61,of all LL-cache accesses
+0.23806544,77036,,LLC-stores,23980664,19,,
+0.23806544,73145,,LLC-store-misses,23994779,19,,
+0.23806544,41144652,,dTLB-loads,35983825,29,,
+0.23806544,155,,dTLB-load-misses,47220884,38,0,of all dTLB cache accesses
+0.23806544,62220683,,branch-loads,55134789,45,,
+0.23806544,9407603,,branch-load-misses,61408633,50,,
+0.248262936,509544391,,cpu-cycles,21802474,17,,
+0.248262936,553286186,,instructions,33686309,27,1.09,insn per cycle
+0.248262936,121822,,cache-references,45575397,37,,
+0.248262936,77747,,cache-misses,57446429,47,63.82,of all cache refs
+0.248262936,41085405,,L1-dcache-loads,69341584,56,,
+0.248262936,150615,,L1-dcache-load-misses,81242715,66,0.37,of all L1-dcache accesses
+0.248262936,25350509,,L1-dcache-stores,93099865,76,,
+0.248262936,<not supported>,,L1-dcache-store-misses,0,100,,
+0.248262936,42042,,l2_rqsts.demand_data_rd_hit,103604906,85,,
+0.248262936,4848,,l2_rqsts.demand_data_rd_miss,43816729,36,,
+0.248262936,5645,,LLC-loads,38220337,31,,
+0.248262936,84,,LLC-load-misses,28648222,23,1.49,of all LL-cache accesses
+0.248262936,81356,,LLC-stores,2393786,1,,
+0.248262936,<not counted>,,LLC-store-misses,0,0,,
+0.248262936,<not counted>,,dTLB-loads,0,0,,
+0.248262936,161,,dTLB-load-misses,752157,0,,
+0.248262936,62367215,,branch-loads,4685500,3,,
+0.248262936,9400065,,branch-load-misses,10404203,8,,
+0.258406197,504387514,,cpu-cycles,83401176,68,,
+0.258406197,548357722,,instructions,92227946,76,1.09,insn per cycle
+0.258406197,127457,,cache-references,98764623,81,,
+0.258406197,78968,,cache-misses,101950730,83,61.96,of all cache refs
+0.258406197,40916679,,L1-dcache-loads,90072078,74,,
+0.258406197,162572,,L1-dcache-load-misses,78182150,64,0.4,of all L1-dcache accesses
+0.258406197,25340389,,L1-dcache-stores,66288638,54,,
+0.258406197,<not supported>,,L1-dcache-store-misses,0,100,,
+0.258406197,46540,,l2_rqsts.demand_data_rd_hit,55021898,45,,
+0.258406197,6883,,l2_rqsts.demand_data_rd_miss,4034349,3,,
+0.258406197,6235,,LLC-loads,9626544,7,,
+0.258406197,1182,,LLC-load-misses,19250623,15,18.96,of all LL-cache accesses
+0.258406197,77211,,LLC-stores,21595156,17,,
+0.258406197,73475,,LLC-store-misses,23969548,19,,
+0.258406197,40880297,,dTLB-loads,35963969,29,,
+0.258406197,316,,dTLB-load-misses,47957760,39,0,of all dTLB cache accesses
+0.258406197,61907073,,branch-loads,59945383,49,,
+0.258406197,9370596,,branch-load-misses,71924177,59,,
+0.268584735,482872246,,cpu-cycles,20304999,17,,
+0.268584735,533007468,,instructions,23197834,19,1.1,insn per cycle
+0.268584735,152975,,cache-references,28727712,24,,
+0.268584735,83473,,cache-misses,37611060,32,54.57,of all cache refs
+0.268584735,39418416,,L1-dcache-loads,40514753,34,,
+0.268584735,151776,,L1-dcache-load-misses,45709611,39,0.39,of all L1-dcache accesses
+0.268584735,24247230,,L1-dcache-stores,52398582,45,,
+0.268584735,<not supported>,,L1-dcache-store-misses,0,100,,
+0.268584735,44305,,l2_rqsts.demand_data_rd_hit,63261465,54,,
+0.268584735,6883,,l2_rqsts.demand_data_rd_miss,45093660,38,,
+0.268584735,7967,,LLC-loads,44112150,37,,
+0.268584735,1004,,LLC-load-misses,43683546,37,12.6,of all LL-cache accesses
+0.268584735,81590,,LLC-stores,19811035,17,,
+0.268584735,74858,,LLC-store-misses,15824175,13,,
+0.268584735,39804429,,dTLB-loads,20336410,17,,
+0.268584735,421,,dTLB-load-misses,20407249,17,0,of all dTLB cache accesses
+0.268584735,60221802,,branch-loads,20476860,17,,
+0.268584735,9101657,,branch-load-misses,20543938,17,,
+0.278780327,464955601,,cpu-cycles,56795662,50,,
+0.278780327,475615294,,instructions,67720039,60,1.02,insn per cycle
+0.278780327,124558,,cache-references,78637572,70,,
+0.278780327,69937,,cache-misses,89445688,80,56.15,of all cache refs
+0.278780327,34464816,,L1-dcache-loads,97312195,87,,
+0.278780327,127466,,L1-dcache-load-misses,99905126,89,0.37,of all L1-dcache accesses
+0.278780327,19284136,,L1-dcache-stores,98690542,88,,
+0.278780327,<not supported>,,L1-dcache-store-misses,0,100,,
+0.278780327,29758,,l2_rqsts.demand_data_rd_hit,87786680,78,,
+0.278780327,4494,,l2_rqsts.demand_data_rd_miss,12400200,11,,
+0.278780327,3437,,LLC-loads,5525779,4,,
+0.278780327,0,,LLC-load-misses,263821,0,,
+0.278780327,72073,,LLC-stores,1956216,1,,
+0.278780327,64571,,LLC-store-misses,5938435,5,,
+0.278780327,38560061,,dTLB-loads,12428660,11,,
+0.278780327,482,,dTLB-load-misses,23345257,20,0,of all dTLB cache accesses
+0.278780327,55128561,,branch-loads,34263243,30,,
+0.278780327,8177976,,branch-load-misses,45081232,40,,
+0.288913886,448830044,,cpu-cycles,51158230,47,,
+0.288913886,308256180,,instructions,51192567,47,0.69,insn per cycle
+0.288913886,84380,,cache-references,51222062,47,,
+0.288913886,43882,,cache-misses,51393583,47,52.01,of all cache refs
+0.288913886,24696246,,L1-dcache-loads,41675821,38,,
+0.288913886,87545,,L1-dcache-load-misses,34585306,31,0.35,of all L1-dcache accesses
+0.288913886,15263522,,L1-dcache-stores,30192642,27,,
+0.288913886,<not supported>,,L1-dcache-store-misses,0,100,,
+0.288913886,22997,,l2_rqsts.demand_data_rd_hit,32661260,30,,
+0.288913886,9152,,l2_rqsts.demand_data_rd_miss,33291587,30,,
+0.288913886,10780,,LLC-loads,40452999,37,,
+0.288913886,597,,LLC-load-misses,44982984,41,5.54,of all LL-cache accesses
+0.288913886,42346,,LLC-stores,21992278,20,,
+0.288913886,37481,,LLC-store-misses,21918126,20,,
+0.288913886,22929406,,dTLB-loads,32909207,30,,
+0.288913886,162,,dTLB-load-misses,42382953,39,0,of all dTLB cache accesses
+0.288913886,35561870,,branch-loads,48436617,44,,
+0.288913886,5041591,,branch-load-misses,51339779,47,,
+0.299110993,221395284,,cpu-cycles,12503775,23,,
+0.299110993,293981149,,instructions,17453124,33,1.33,insn per cycle
+0.299110993,84589,,cache-references,22419754,42,,
+0.299110993,55886,,cache-misses,27360808,52,66.07,of all cache refs
+0.299110993,23191959,,L1-dcache-loads,32294824,61,,
+0.299110993,68705,,L1-dcache-load-misses,37265376,71,0.3,of all L1-dcache accesses
+0.299110993,14521002,,L1-dcache-stores,42237230,80,,
+0.299110993,<not supported>,,L1-dcache-store-misses,0,100,,
+0.299110993,11715,,l2_rqsts.demand_data_rd_hit,45486564,86,,
+0.299110993,6672,,l2_rqsts.demand_data_rd_miss,17442694,33,,
+0.299110993,7343,,LLC-loads,14675413,28,,
+0.299110993,113,,LLC-load-misses,10147254,19,1.54,of all LL-cache accesses
+0.299110993,47483,,LLC-stores,467395,0,,
+0.299110993,<not counted>,,LLC-store-misses,0,0,,
+0.299110993,<not counted>,,dTLB-loads,0,0,,
+0.299110993,112,,dTLB-load-misses,932967,1,,
+0.299110993,27804458,,branch-loads,3792707,7,,
+0.299110993,4304203,,branch-load-misses,7322770,13,,
+0.309242352,211165796,,cpu-cycles,34359185,67,,
+0.309242352,264123867,,instructions,37719559,74,1.25,insn per cycle
+0.309242352,72627,,cache-references,40089701,79,,
+0.309242352,37683,,cache-misses,40831351,80,51.89,of all cache refs
+0.309242352,19334997,,L1-dcache-loads,35853806,70,,
+0.309242352,63492,,L1-dcache-load-misses,30876216,60,0.33,of all L1-dcache accesses
+0.309242352,11076078,,L1-dcache-stores,25897162,50,,
+0.309242352,<not supported>,,L1-dcache-store-misses,0,100,,
+0.309242352,13535,,l2_rqsts.demand_data_rd_hit,21700165,42,,
+0.309242352,4079,,l2_rqsts.demand_data_rd_miss,2553882,5,,
+0.309242352,3972,,LLC-loads,5321507,10,,
+0.309242352,159,,LLC-load-misses,9849686,19,4,of all LL-cache accesses
+0.309242352,42844,,LLC-stores,9533483,18,,
+0.309242352,40933,,LLC-store-misses,10000445,19,,
+0.309242352,22463806,,dTLB-loads,15000940,29,,
+0.309242352,182,,dTLB-load-misses,20000432,39,0,of all dTLB cache accesses
+0.309242352,31609459,,branch-loads,25001324,49,,
+0.309242352,4644127,,branch-load-misses,30002725,59,,
+0.319422589,196932578,,cpu-cycles,6222412,13,,
+0.319422589,148886163,,instructions,7871001,17,0.76,insn per cycle
+0.319422589,75302,,cache-references,10510493,22,,
+0.319422589,45848,,cache-misses,14775677,32,60.89,of all cache refs
+0.319422589,14395619,,L1-dcache-loads,17221842,37,,
+0.319422589,51820,,L1-dcache-load-misses,20204501,43,0.36,of all L1-dcache accesses
+0.319422589,10468041,,L1-dcache-stores,24100927,52,,
+0.319422589,<not supported>,,L1-dcache-store-misses,0,100,,
+0.319422589,8141,,l2_rqsts.demand_data_rd_hit,28733014,62,,
+0.319422589,2733,,l2_rqsts.demand_data_rd_miss,18655405,40,,
+0.319422589,3007,,LLC-loads,17654128,38,,
+0.319422589,198,,LLC-load-misses,16200418,35,6.58,of all LL-cache accesses
+0.319422589,28146,,LLC-stores,6094438,13,,
+0.319422589,14235,,LLC-store-misses,4548772,9,,
+0.319422589,7611487,,dTLB-loads,5653238,12,,
+0.319422589,72,,dTLB-load-misses,5662244,12,0,of all dTLB cache accesses
+0.319422589,11899994,,branch-loads,5670137,12,,
+0.319422589,1550021,,branch-load-misses,5678279,12,,
+0.331914795,592977095,,cpu-cycles,50242177,35,,
+0.331914795,116453569,,instructions,62220269,43,0.2,insn per cycle
+0.331914795,1727887,,cache-references,73257993,51,,
+0.331914795,209062,,cache-misses,83307986,58,12.1,of all cache refs
+0.331914795,17231267,,L1-dcache-loads,89710654,62,,
+0.331914795,3537198,,L1-dcache-load-misses,95711965,67,20.53,of all L1-dcache accesses
+0.331914795,8215972,,L1-dcache-stores,99866822,69,,
+0.331914795,<not supported>,,L1-dcache-store-misses,0,100,,
+0.331914795,1882965,,l2_rqsts.demand_data_rd_hit,101785360,71,,
+0.331914795,3602480,,l2_rqsts.demand_data_rd_miss,37083206,25,,
+0.331914795,5366550,,LLC-loads,34309823,23,,
+0.331914795,188637,,LLC-load-misses,30571578,21,3.52,of all LL-cache accesses
+0.331914795,113399,,LLC-stores,9040104,6,,
+0.331914795,208151,,LLC-store-misses,7738738,5,,
+0.331914795,9029704,,dTLB-loads,12643339,8,,
+0.331914795,5713,,dTLB-load-misses,19288008,13,0.06,of all dTLB cache accesses
+0.331914795,17748797,,branch-loads,27561187,19,,
+0.331914795,701180,,branch-load-misses,38429461,26,,
+0.342167549,509237399,,cpu-cycles,70903440,57,,
+0.342167549,110876077,,instructions,78898941,64,0.22,insn per cycle
+0.342167549,11365293,,cache-references,85740699,69,,
+0.342167549,1382217,,cache-misses,91282063,74,12.16,of all cache refs
+0.342167549,44289937,,L1-dcache-loads,82442024,67,,
+0.342167549,21288082,,L1-dcache-load-misses,73248149,59,48.07,of all L1-dcache accesses
+0.342167549,11207536,,L1-dcache-stores,65971843,53,,
+0.342167549,<not supported>,,L1-dcache-store-misses,0,100,,
+0.342167549,10443758,,l2_rqsts.demand_data_rd_hit,59975927,48,,
+0.342167549,8083249,,l2_rqsts.demand_data_rd_miss,12831479,10,,
+0.342167549,9771233,,LLC-loads,17590102,14,,
+0.342167549,290142,,LLC-load-misses,23221114,18,2.97,of all LL-cache accesses
+0.342167549,3154,,LLC-stores,20305548,16,,
+0.342167549,148,,LLC-store-misses,23062722,18,,
+0.342167549,44228359,,dTLB-loads,33398091,27,,
+0.342167549,220216,,dTLB-load-misses,43381819,35,0.5,of all dTLB cache accesses
+0.342167549,11111478,,branch-loads,53364414,43,,
+0.342167549,1278,,branch-load-misses,62735763,51,,
+0.352409197,507584808,,cpu-cycles,32945213,26,,
+0.352409197,126587352,,instructions,36955654,30,0.25,insn per cycle
+0.352409197,6315966,,cache-references,43091629,35,,
+0.352409197,2477556,,cache-misses,51320238,41,39.23,of all cache refs
+0.352409197,30839110,,L1-dcache-loads,54326184,44,,
+0.352409197,13155103,,L1-dcache-load-misses,58272218,47,42.66,of all L1-dcache accesses
+0.352409197,7494700,,L1-dcache-stores,63030718,51,,
+0.352409197,<not supported>,,L1-dcache-store-misses,0,100,,
+0.352409197,5070800,,l2_rqsts.demand_data_rd_hit,69251073,56,,
+0.352409197,2383275,,l2_rqsts.demand_data_rd_miss,41888909,34,,
+0.352409197,1529163,,LLC-loads,40101502,32,,
+0.352409197,21378,,LLC-load-misses,38102744,31,1.4,of all LL-cache accesses
+0.352409197,194963,,LLC-stores,16528625,13,,
+0.352409197,127273,,LLC-store-misses,15336872,12,,
+0.352409197,21809742,,dTLB-loads,21056733,17,,
+0.352409197,185812,,dTLB-load-misses,24861087,20,0.85,of all dTLB cache accesses
+0.352409197,11729386,,branch-loads,26904336,22,,
+0.352409197,22107,,branch-load-misses,29559799,24,,
+0.362646246,492196655,,cpu-cycles,59182018,49,,
+0.362646246,76762029,,instructions,69117307,58,0.16,insn per cycle
+0.362646246,9626450,,cache-references,78274700,66,,
+0.362646246,630443,,cache-misses,86994084,73,6.55,of all cache refs
+0.362646246,50394499,,L1-dcache-loads,90729954,76,,
+0.362646246,11020814,,L1-dcache-load-misses,92338086,78,21.87,of all L1-dcache accesses
+0.362646246,10214249,,L1-dcache-stores,89901958,76,,
+0.362646246,<not supported>,,L1-dcache-store-misses,0,100,,
+0.362646246,592351,,l2_rqsts.demand_data_rd_hit,83534887,70,,
+0.362646246,38940,,l2_rqsts.demand_data_rd_miss,17755491,15,,
+0.362646246,38574,,LLC-loads,13207876,11,,
+0.362646246,13494,,LLC-load-misses,11461653,9,34.98,of all LL-cache accesses
+0.362646246,8638104,,LLC-stores,7411152,6,,
+0.362646246,14973,,LLC-store-misses,9236381,7,,
+0.362646246,48873241,,dTLB-loads,16818080,14,,
+0.362646246,1136474,,dTLB-load-misses,26707741,22,2.33,of all dTLB cache accesses
+0.362646246,14933223,,branch-loads,38311326,32,,
+0.362646246,3701,,branch-load-misses,48885314,41,,
+0.372853671,471382498,,cpu-cycles,46339218,40,,
+0.372853671,72841051,,instructions,48424154,42,0.15,insn per cycle
+0.372853671,9190350,,cache-references,50728750,44,,
+0.372853671,615636,,cache-misses,54127812,47,6.7,of all cache refs
+0.372853671,49480801,,L1-dcache-loads,49402168,43,,
+0.372853671,10889840,,L1-dcache-load-misses,45899067,40,22.01,of all L1-dcache accesses
+0.372853671,10163564,,L1-dcache-stores,47453585,41,,
+0.372853671,<not supported>,,L1-dcache-store-misses,0,100,,
+0.372853671,523852,,l2_rqsts.demand_data_rd_hit,51485014,45,,
+0.372853671,42746,,l2_rqsts.demand_data_rd_miss,36207865,31,,
+0.372853671,43824,,LLC-loads,40810915,35,,
+0.372853671,14218,,LLC-load-misses,41141365,36,32.44,of all LL-cache accesses
+0.372853671,8354974,,LLC-stores,18062387,15,,
+0.372853671,5793,,LLC-store-misses,17964390,15,,
+0.372853671,47259847,,dTLB-loads,25213664,22,,
+0.372853671,1052836,,dTLB-load-misses,31285158,27,2.23,of all dTLB cache accesses
+0.372853671,14222858,,branch-loads,37479071,32,,
+0.372853671,2443,,branch-load-misses,42775838,37,,
+0.383157954,442528872,,cpu-cycles,34665291,32,,
+0.383157954,65703508,,instructions,44591102,41,0.15,insn per cycle
+0.383157954,7911953,,cache-references,53761624,50,,
+0.383157954,535936,,cache-misses,61861047,58,6.77,of all cache refs
+0.383157954,42218855,,L1-dcache-loads,67257998,63,,
+0.383157954,9094191,,L1-dcache-load-misses,73209913,68,21.54,of all L1-dcache accesses
+0.383157954,8516544,,L1-dcache-stores,76540286,71,,
+0.383157954,<not supported>,,L1-dcache-store-misses,0,100,,
+0.383157954,475841,,l2_rqsts.demand_data_rd_hit,77906899,73,,
+0.383157954,41687,,l2_rqsts.demand_data_rd_miss,27580412,25,,
+0.383157954,54161,,LLC-loads,24379002,22,,
+0.383157954,31213,,LLC-load-misses,21325627,20,57.63,of all LL-cache accesses
+0.383157954,8002054,,LLC-stores,6879134,6,,
+0.383157954,10336,,LLC-store-misses,4640313,4,,
+0.383157954,50619350,,dTLB-loads,8526199,8,,
+0.383157954,763647,,dTLB-load-misses,13402546,12,1.51,of all dTLB cache accesses
+0.383157954,14966300,,branch-loads,18398767,17,,
+0.383157954,3711,,branch-load-misses,26007008,24,,
+0.393362265,486545398,,cpu-cycles,62616230,53,,
+0.393362265,38260488,,instructions,69612754,59,0.08,insn per cycle
+0.393362265,2983865,,cache-references,75735449,64,,
+0.393362265,197954,,cache-misses,80946678,69,6.63,of all cache refs
+0.393362265,17559381,,L1-dcache-loads,74454567,63,,
+0.393362265,3124927,,L1-dcache-load-misses,67048065,57,17.8,of all L1-dcache accesses
+0.393362265,3520080,,L1-dcache-stores,61293648,52,,
+0.393362265,<not supported>,,L1-dcache-store-misses,0,100,,
+0.393362265,87311,,l2_rqsts.demand_data_rd_hit,56988236,48,,
+0.393362265,36834,,l2_rqsts.demand_data_rd_miss,16332098,13,,
+0.393362265,32853,,LLC-loads,20364362,17,,
+0.393362265,12525,,LLC-load-misses,25336844,21,38.12,of all LL-cache accesses
+0.393362265,5051421,,LLC-stores,19011649,16,,
+0.393362265,4555,,LLC-store-misses,20818001,17,,
+0.393362265,28874334,,dTLB-loads,30327750,25,,
+0.393362265,317349,,dTLB-load-misses,39307149,33,1.1,of all dTLB cache accesses
+0.393362265,9879617,,branch-loads,47957223,41,,
+0.393362265,2602,,branch-load-misses,55488666,47,,
+0.40357559,463269547,,cpu-cycles,36180428,32,,
+0.40357559,59146905,,instructions,41192638,36,0.13,insn per cycle
+0.40357559,1790822,,cache-references,46679500,41,,
+0.40357559,559658,,cache-misses,54963789,48,31.25,of all cache refs
+0.40357559,14734249,,L1-dcache-loads,56717006,50,,
+0.40357559,1392301,,L1-dcache-load-misses,59356353,52,9.45,of all L1-dcache accesses
+0.40357559,7720060,,L1-dcache-stores,62841543,55,,
+0.40357559,<not supported>,,L1-dcache-store-misses,0,100,,
+0.40357559,55010,,l2_rqsts.demand_data_rd_hit,66556188,59,,
+0.40357559,20108,,l2_rqsts.demand_data_rd_miss,33672619,29,,
+0.40357559,29361,,LLC-loads,32730417,28,,
+0.40357559,16707,,LLC-load-misses,31482199,27,56.9,of all LL-cache accesses
+0.40357559,490786,,LLC-stores,14389034,12,,
+0.40357559,651986,,LLC-store-misses,13364842,11,,
+0.40357559,16848733,,dTLB-loads,18615091,16,,
+0.40357559,12533,,dTLB-load-misses,23257702,20,0.07,of all dTLB cache accesses
+0.40357559,14246894,,branch-loads,26665314,23,,
+0.40357559,17930,,branch-load-misses,31079055,27,,
+0.414093891,470099811,,cpu-cycles,53903369,47,,
+0.414093891,119138222,,instructions,62165469,54,0.25,insn per cycle
+0.414093891,3050448,,cache-references,71754599,63,,
+0.414093891,1913325,,cache-misses,80425379,70,62.72,of all cache refs
+0.414093891,27606435,,L1-dcache-loads,83078316,73,,
+0.414093891,3844150,,L1-dcache-load-misses,84764928,74,13.92,of all L1-dcache accesses
+0.414093891,15738864,,L1-dcache-stores,82632899,72,,
+0.414093891,<not supported>,,L1-dcache-store-misses,0,100,,
+0.414093891,825086,,l2_rqsts.demand_data_rd_hit,78198997,68,,
+0.414093891,483372,,l2_rqsts.demand_data_rd_miss,18800116,16,,
+0.414093891,426471,,LLC-loads,14551479,12,,
+0.414093891,21765,,LLC-load-misses,13624130,11,5.1,of all LL-cache accesses
+0.414093891,2532800,,LLC-stores,9111094,8,,
+0.414093891,1858128,,LLC-store-misses,10410612,9,,
+0.414093891,29714039,,dTLB-loads,17408357,15,,
+0.414093891,285621,,dTLB-load-misses,25113785,22,0.96,of all dTLB cache accesses
+0.414093891,21372525,,branch-loads,36237903,32,,
+0.414093891,27705,,branch-load-misses,44859404,39,,
+0.424509407,466042415,,cpu-cycles,50178055,44,,
+0.424509407,29390370,,instructions,53262107,47,0.06,insn per cycle
+0.424509407,5124995,,cache-references,56227101,49,,
+0.424509407,994284,,cache-misses,60019733,53,19.4,of all cache refs
+0.424509407,13910079,,L1-dcache-loads,56835400,50,,
+0.424509407,7352263,,L1-dcache-load-misses,53343822,47,52.86,of all L1-dcache accesses
+0.424509407,5085454,,L1-dcache-stores,51592433,45,,
+0.424509407,<not supported>,,L1-dcache-store-misses,0,100,,
+0.424509407,2050958,,l2_rqsts.demand_data_rd_hit,53276332,47,,
+0.424509407,922162,,l2_rqsts.demand_data_rd_miss,31002339,27,,
+0.424509407,935061,,LLC-loads,34715132,30,,
+0.424509407,8919,,LLC-load-misses,36376189,32,0.95,of all LL-cache accesses
+0.424509407,4001015,,LLC-stores,16382286,14,,
+0.424509407,847496,,LLC-store-misses,16643512,14,,
+0.424509407,13803842,,dTLB-loads,25359642,22,,
+0.424509407,1585097,,dTLB-load-misses,33100732,29,11.48,of all dTLB cache accesses
+0.424509407,5139796,,branch-loads,40266491,35,,
+0.424509407,2120,,branch-load-misses,46675102,41,,
+0.435532614,493654054,,cpu-cycles,34963351,29,,
+0.435532614,31513987,,instructions,44790012,37,0.06,insn per cycle
+0.435532614,5486036,,cache-references,54377868,45,,
+0.435532614,1049444,,cache-misses,63306013,52,19.13,of all cache refs
+0.435532614,14760518,,L1-dcache-loads,67590605,56,,
+0.435532614,7793484,,L1-dcache-load-misses,72812667,60,52.8,of all L1-dcache accesses
+0.435532614,5365714,,L1-dcache-stores,77727676,65,,
+0.435532614,<not supported>,,L1-dcache-store-misses,0,100,,
+0.435532614,2161542,,l2_rqsts.demand_data_rd_hit,82085363,68,,
+0.435532614,966294,,l2_rqsts.demand_data_rd_miss,33895408,28,,
+0.435532614,989201,,LLC-loads,33241135,27,,
+0.435532614,9906,,LLC-load-misses,30538084,25,1,of all LL-cache accesses
+0.435532614,4188208,,LLC-stores,10741658,8,,
+0.435532614,885607,,LLC-store-misses,7491515,6,,
+0.435532614,14640173,,dTLB-loads,11404476,9,,
+0.435532614,1584939,,dTLB-load-misses,15633878,13,10.83,of all dTLB cache accesses
+0.435532614,5501401,,branch-loads,20458048,17,,
+0.435532614,3375,,branch-load-misses,25850121,21,,
+0.445936343,467697738,,cpu-cycles,59740420,52,,
+0.445936343,30090716,,instructions,67711150,59,0.06,insn per cycle
+0.445936343,5246987,,cache-references,74115578,65,,
+0.445936343,1005003,,cache-misses,80194143,70,19.15,of all cache refs
+0.445936343,14145989,,L1-dcache-loads,77887666,68,,
+0.445936343,7485269,,L1-dcache-load-misses,73073548,64,52.91,of all L1-dcache accesses
+0.445936343,5115207,,L1-dcache-stores,69149115,61,,
+0.445936343,<not supported>,,L1-dcache-store-misses,0,100,,
+0.445936343,2056823,,l2_rqsts.demand_data_rd_hit,65508252,57,,
+0.445936343,976458,,l2_rqsts.demand_data_rd_miss,17829679,15,,
+0.445936343,986290,,LLC-loads,17727474,15,,
+0.445936343,11088,,LLC-load-misses,19372440,17,1.12,of all LL-cache accesses
+0.445936343,4000888,,LLC-stores,13065139,11,,
+0.445936343,851746,,LLC-store-misses,16556285,14,,
+0.445936343,14115526,,dTLB-loads,24489281,21,,
+0.445936343,1607310,,dTLB-load-misses,32451007,28,11.39,of all dTLB cache accesses
+0.445936343,5234457,,branch-loads,41609761,36,,
+0.445936343,3098,,branch-load-misses,50510945,44,,
+0.457338848,523225417,,cpu-cycles,51485502,40,,
+0.457338848,31974257,,instructions,55536874,43,0.06,insn per cycle
+0.457338848,5784717,,cache-references,60682035,47,,
+0.457338848,1089266,,cache-misses,66172453,51,18.83,of all cache refs
+0.457338848,15401161,,L1-dcache-loads,61294264,48,,
+0.457338848,8273543,,L1-dcache-load-misses,60223918,47,53.72,of all L1-dcache accesses
+0.457338848,5569644,,L1-dcache-stores,59567918,46,,
+0.457338848,<not supported>,,L1-dcache-store-misses,0,100,,
+0.457338848,2312123,,l2_rqsts.demand_data_rd_hit,59528742,46,,
+0.457338848,1063483,,l2_rqsts.demand_data_rd_miss,34023133,26,,
+0.457338848,1085996,,LLC-loads,35128890,27,,
+0.457338848,9348,,LLC-load-misses,37113627,29,0.86,of all LL-cache accesses
+0.457338848,4475310,,LLC-stores,22341640,17,,
+0.457338848,922303,,LLC-store-misses,21723276,17,,
+0.457338848,15306752,,dTLB-loads,30949854,24,,
+0.457338848,1737553,,dTLB-load-misses,39150414,30,11.35,of all dTLB cache accesses
+0.457338848,5597847,,branch-loads,45425329,35,,
+0.457338848,2990,,branch-load-misses,49784957,38,,
+0.46893683,556341979,,cpu-cycles,46040769,34,,
+0.46893683,33526167,,instructions,54913498,40,0.06,insn per cycle
+0.46893683,6129051,,cache-references,64292993,47,,
+0.46893683,1143704,,cache-misses,74624424,55,18.66,of all cache refs
+0.46893683,16122311,,L1-dcache-loads,82528917,61,,
+0.46893683,8699324,,L1-dcache-load-misses,88512199,65,53.96,of all L1-dcache accesses
+0.46893683,5711087,,L1-dcache-stores,91056002,67,,
+0.46893683,<not supported>,,L1-dcache-store-misses,0,100,,
+0.46893683,2400698,,l2_rqsts.demand_data_rd_hit,94240997,70,,
+0.46893683,1089679,,l2_rqsts.demand_data_rd_miss,37051916,27,,
+0.46893683,1119387,,LLC-loads,32343676,24,,
+0.46893683,11700,,LLC-load-misses,28442692,21,1.05,of all LL-cache accesses
+0.46893683,4726847,,LLC-stores,8981106,6,,
+0.46893683,960926,,LLC-store-misses,8805907,6,,
+0.46893683,15968749,,dTLB-loads,15112658,11,,
+0.46893683,1805213,,dTLB-load-misses,20777718,15,11.3,of all dTLB cache accesses
+0.46893683,5803307,,branch-loads,27629816,20,,
+0.46893683,3877,,branch-load-misses,36088639,26,,
+0.479391195,477638071,,cpu-cycles,60839453,52,,
+0.479391195,28664846,,instructions,68946952,59,0.06,insn per cycle
+0.479391195,5358492,,cache-references,75853099,65,,
+0.479391195,1000212,,cache-misses,80904698,69,18.67,of all cache refs
+0.479391195,14017923,,L1-dcache-loads,76619687,66,,
+0.479391195,7587382,,L1-dcache-load-misses,71788732,62,54.13,of all L1-dcache accesses
+0.479391195,4988121,,L1-dcache-stores,69373209,59,,
+0.479391195,<not supported>,,L1-dcache-store-misses,0,100,,
+0.479391195,2052146,,l2_rqsts.demand_data_rd_hit,66149544,57,,
+0.479391195,974269,,l2_rqsts.demand_data_rd_miss,19450798,16,,
+0.479391195,972899,,LLC-loads,22200808,19,,
+0.479391195,8723,,LLC-load-misses,22895576,19,0.9,of all LL-cache accesses
+0.479391195,4082681,,LLC-stores,13759094,11,,
+0.479391195,836278,,LLC-store-misses,15527885,13,,
+0.479391195,13819234,,dTLB-loads,23398191,20,,
+0.479391195,1618666,,dTLB-load-misses,32200704,27,11.71,of all dTLB cache accesses
+0.479391195,4968841,,branch-loads,42744874,36,,
+0.479391195,2680,,branch-load-misses,51638680,44,,
+0.489834995,467689167,,cpu-cycles,37869172,33,,
+0.489834995,28505977,,instructions,42411067,37,0.06,insn per cycle
+0.489834995,5293168,,cache-references,46745922,41,,
+0.489834995,992369,,cache-misses,52828653,46,18.75,of all cache refs
+0.489834995,13972966,,L1-dcache-loads,51341429,45,,
+0.489834995,7520570,,L1-dcache-load-misses,51270228,44,53.82,of all L1-dcache accesses
+0.489834995,4962739,,L1-dcache-stores,53016552,46,,
+0.489834995,<not supported>,,L1-dcache-store-misses,0,100,,
+0.489834995,2053046,,l2_rqsts.demand_data_rd_hit,57215589,50,,
+0.489834995,975478,,l2_rqsts.demand_data_rd_miss,33637306,29,,
+0.489834995,988785,,LLC-loads,36180821,31,,
+0.489834995,7885,,LLC-load-misses,37692731,33,0.8,of all LL-cache accesses
+0.489834995,4076348,,LLC-stores,18428579,16,,
+0.489834995,835989,,LLC-store-misses,17113432,15,,
+0.489834995,13859719,,dTLB-loads,23359354,20,,
+0.489834995,1584016,,dTLB-load-misses,27641960,24,11.43,of all dTLB cache accesses
+0.489834995,4992087,,branch-loads,30826101,27,,
+0.489834995,2419,,branch-load-misses,34342638,30,,
+0.501592688,525783455,,cpu-cycles,53215986,41,,
+0.501592688,32314969,,instructions,63088784,49,0.06,insn per cycle
+0.501592688,5967817,,cache-references,73661836,57,,
+0.501592688,1118515,,cache-misses,83992558,66,18.74,of all cache refs
+0.501592688,15653881,,L1-dcache-loads,88597963,69,,
+0.501592688,8429951,,L1-dcache-load-misses,91233241,71,53.85,of all L1-dcache accesses
+0.501592688,5533065,,L1-dcache-stores,92113053,72,,
+0.501592688,<not supported>,,L1-dcache-store-misses,0,100,,
+0.501592688,2288372,,l2_rqsts.demand_data_rd_hit,90022859,70,,
+0.501592688,1093102,,l2_rqsts.demand_data_rd_miss,26294860,20,,
+0.501592688,1120772,,LLC-loads,21386061,16,,
+0.501592688,11017,,LLC-load-misses,17655285,13,0.98,of all LL-cache accesses
+0.501592688,4547129,,LLC-stores,8732141,6,,
+0.501592688,939916,,LLC-store-misses,10613031,8,,
+0.501592688,15550882,,dTLB-loads,17206815,13,,
+0.501592688,1794613,,dTLB-load-misses,24933176,19,11.54,of all dTLB cache accesses
+0.501592688,5634431,,branch-loads,33371155,26,,
+0.501592688,3812,,branch-load-misses,43215234,34,,
+0.512006172,467620262,,cpu-cycles,57199879,50,,
+0.512006172,28672017,,instructions,62338175,54,0.06,insn per cycle
+0.512006172,5335388,,cache-references,65923837,58,,
+0.512006172,988599,,cache-misses,70061408,61,18.53,of all cache refs
+0.512006172,13938615,,L1-dcache-loads,65358266,57,,
+0.512006172,7507062,,L1-dcache-load-misses,62089244,54,53.86,of all L1-dcache accesses
+0.512006172,4929949,,L1-dcache-stores,58716866,51,,
+0.512006172,<not supported>,,L1-dcache-store-misses,0,100,,
+0.512006172,2032834,,l2_rqsts.demand_data_rd_hit,55368420,48,,
+0.512006172,958788,,l2_rqsts.demand_data_rd_miss,22026385,19,,
+0.512006172,972621,,LLC-loads,24730738,21,,
+0.512006172,10767,,LLC-load-misses,28699447,25,1.11,of all LL-cache accesses
+0.512006172,4096156,,LLC-stores,17869820,15,,
+0.512006172,839431,,LLC-store-misses,17582942,15,,
+0.512006172,13961842,,dTLB-loads,25795219,22,,
+0.512006172,1616887,,dTLB-load-misses,34619220,30,11.58,of all dTLB cache accesses
+0.512006172,4994037,,branch-loads,42869105,37,,
+0.512006172,2212,,branch-load-misses,50790137,44,,
+0.522450126,466566568,,cpu-cycles,32854929,28,,
+0.522450126,28690584,,instructions,37794301,33,0.06,insn per cycle
+0.522450126,5329526,,cache-references,44477433,39,,
+0.522450126,989721,,cache-misses,52290490,46,18.57,of all cache refs
+0.522450126,13973078,,L1-dcache-loads,53736864,47,,
+0.522450126,7555427,,L1-dcache-load-misses,56870076,50,54.07,of all L1-dcache accesses
+0.522450126,4955081,,L1-dcache-stores,61222469,53,,
+0.522450126,<not supported>,,L1-dcache-store-misses,0,100,,
+0.522450126,2066648,,l2_rqsts.demand_data_rd_hit,66580061,58,,
+0.522450126,956522,,l2_rqsts.demand_data_rd_miss,35948334,31,,
+0.522450126,978465,,LLC-loads,36626363,32,,
+0.522450126,8284,,LLC-load-misses,36443439,32,0.85,of all LL-cache accesses
+0.522450126,4107358,,LLC-stores,14960280,13,,
+0.522450126,831704,,LLC-store-misses,11920822,10,,
+0.522450126,13888856,,dTLB-loads,16196935,14,,
+0.522450126,1567441,,dTLB-load-misses,20234420,17,11.29,of all dTLB cache accesses
+0.522450126,4979464,,branch-loads,25003799,21,,
+0.522450126,2721,,branch-load-misses,29434096,25,,
+0.534942773,561498508,,cpu-cycles,57601197,42,,
+0.534942773,34592013,,instructions,67474950,49,0.06,insn per cycle
+0.534942773,6393708,,cache-references,77358282,56,,
+0.534942773,1187066,,cache-misses,87295469,64,18.57,of all cache refs
+0.534942773,16809731,,L1-dcache-loads,89904192,66,,
+0.534942773,9067230,,L1-dcache-load-misses,91267330,67,53.94,of all L1-dcache accesses
+0.534942773,5931855,,L1-dcache-stores,90978027,66,,
+0.534942773,<not supported>,,L1-dcache-store-misses,0,100,,
+0.534942773,2470828,,l2_rqsts.demand_data_rd_hit,89961551,66,,
+0.534942773,1160276,,l2_rqsts.demand_data_rd_miss,29807801,21,,
+0.534942773,1180203,,LLC-loads,26046284,19,,
+0.534942773,10533,,LLC-load-misses,22657223,16,0.89,of all LL-cache accesses
+0.534942773,4881987,,LLC-stores,11001010,8,,
+0.534942773,1008299,,LLC-store-misses,13706952,10,,
+0.534942773,16708790,,dTLB-loads,22081333,16,,
+0.534942773,1948957,,dTLB-load-misses,30228145,22,11.66,of all dTLB cache accesses
+0.534942773,6038425,,branch-loads,38155483,28,,
+0.534942773,2686,,branch-load-misses,46595501,34,,
+0.545319579,467921676,,cpu-cycles,58219276,51,,
+0.545319579,27757608,,instructions,63827806,56,0.06,insn per cycle
+0.545319579,5338881,,cache-references,68365936,60,,
+0.545319579,974216,,cache-misses,72424740,63,18.25,of all cache refs
+0.545319579,13854708,,L1-dcache-loads,69063068,60,,
+0.545319579,7567542,,L1-dcache-load-misses,64574136,56,54.62,of all L1-dcache accesses
+0.545319579,4784816,,L1-dcache-stores,60058091,52,,
+0.545319579,<not supported>,,L1-dcache-store-misses,0,100,,
+0.545319579,2060239,,l2_rqsts.demand_data_rd_hit,55609221,48,,
+0.545319579,940249,,l2_rqsts.demand_data_rd_miss,19775104,17,,
+0.545319579,949883,,LLC-loads,23712460,20,,
+0.545319579,8930,,LLC-load-misses,27759661,24,0.94,of all LL-cache accesses
+0.545319579,4148419,,LLC-stores,16693000,14,,
+0.545319579,823585,,LLC-store-misses,16749594,14,,
+0.545319579,13901510,,dTLB-loads,25591260,22,,
+0.545319579,1645207,,dTLB-load-misses,34992928,30,11.83,of all dTLB cache accesses
+0.545319579,4852934,,branch-loads,43926905,38,,
+0.545319579,2100,,branch-load-misses,52043059,45,,
+0.555723847,461114425,,cpu-cycles,32380078,28,,
+0.555723847,27531628,,instructions,39446448,35,0.06,insn per cycle
+0.555723847,5219356,,cache-references,47727714,42,,
+0.555723847,973331,,cache-misses,56569466,50,18.65,of all cache refs
+0.555723847,13575577,,L1-dcache-loads,60289879,53,,
+0.555723847,7384037,,L1-dcache-load-misses,64425560,57,54.39,of all L1-dcache accesses
+0.555723847,4775246,,L1-dcache-stores,69639136,62,,
+0.555723847,<not supported>,,L1-dcache-store-misses,0,100,,
+0.555723847,2020691,,l2_rqsts.demand_data_rd_hit,72883690,65,,
+0.555723847,947396,,l2_rqsts.demand_data_rd_miss,33975509,30,,
+0.555723847,962633,,LLC-loads,32195241,28,,
+0.555723847,9556,,LLC-load-misses,29155694,26,0.99,of all LL-cache accesses
+0.555723847,4066599,,LLC-stores,10975787,9,,
+0.555723847,814610,,LLC-store-misses,9481273,8,,
+0.555723847,13490194,,dTLB-loads,13171510,11,,
+0.555723847,1542367,,dTLB-load-misses,17570750,15,11.43,of all dTLB cache accesses
+0.555723847,4757031,,branch-loads,22233743,19,,
+0.555723847,3943,,branch-load-misses,27054670,24,,
+0.566127459,469121300,,cpu-cycles,56287907,49,,
+0.566127459,28041073,,instructions,64201907,56,0.06,insn per cycle
+0.566127459,3364588,,cache-references,71381534,63,,
+0.566127459,624255,,cache-misses,77558760,68,18.55,of all cache refs
+0.566127459,9323545,,L1-dcache-loads,77428890,68,,
+0.566127459,3843997,,L1-dcache-load-misses,73943306,65,41.23,of all L1-dcache accesses
+0.566127459,2409852,,L1-dcache-stores,69368513,61,,
+0.566127459,<not supported>,,L1-dcache-store-misses,0,100,,
+0.566127459,952837,,l2_rqsts.demand_data_rd_hit,66057882,58,,
+0.566127459,884989,,l2_rqsts.demand_data_rd_miss,18799469,16,,
+0.566127459,983814,,LLC-loads,19525197,17,,
+0.566127459,8194,,LLC-load-misses,20547918,18,0.83,of all LL-cache accesses
+0.566127459,4968962,,LLC-stores,11407833,10,,
+0.566127459,903581,,LLC-store-misses,14105258,12,,
+0.566127459,13897312,,dTLB-loads,22990882,20,,
+0.566127459,1512609,,dTLB-load-misses,31135768,27,10.88,of all dTLB cache accesses
+0.566127459,5883208,,branch-loads,39129234,34,,
+0.566127459,1924,,branch-load-misses,47409993,42,,
+0.576350947,339358053,,cpu-cycles,20389142,25,,
+0.576350947,22677332,,instructions,24371078,29,0.07,insn per cycle
+0.576350947,2914298,,cache-references,28587323,35,,
+0.576350947,586692,,cache-misses,33322396,40,20.13,of all cache refs
+0.576350947,7547486,,L1-dcache-loads,34604954,42,,
+0.576350947,3049464,,L1-dcache-load-misses,39386753,48,40.4,of all L1-dcache accesses
+0.576350947,1870609,,L1-dcache-stores,45411581,55,,
+0.576350947,<not supported>,,L1-dcache-store-misses,0,100,,
+0.576350947,692600,,l2_rqsts.demand_data_rd_hit,50419197,62,,
+0.576350947,339998,,l2_rqsts.demand_data_rd_miss,30155456,37,,
+0.576350947,364557,,LLC-loads,29377011,36,,
+0.576350947,4347,,LLC-load-misses,26756904,32,1.19,of all LL-cache accesses
+0.576350947,2015547,,LLC-stores,9891515,12,,
+0.576350947,536825,,LLC-store-misses,7118618,8,,
+0.576350947,9069274,,dTLB-loads,9119098,11,,
+0.576350947,713324,,dTLB-load-misses,11736015,14,7.87,of all dTLB cache accesses
+0.576350947,4841487,,branch-loads,13905432,17,,
+0.576350947,1420,,branch-load-misses,16603692,20,,
+0.586562354,130601777,,cpu-cycles,13715267,45,,
+0.586562354,9537233,,instructions,15710235,52,0.07,insn per cycle
+0.586562354,2157536,,cache-references,17919815,59,,
+0.586562354,614858,,cache-misses,19914099,66,28.5,of all cache refs
+0.586562354,3882169,,L1-dcache-loads,19918596,66,,
+0.586562354,1867561,,L1-dcache-load-misses,19903589,66,48.11,of all L1-dcache accesses
+0.586562354,1126525,,L1-dcache-stores,18908901,63,,
+0.586562354,<not supported>,,L1-dcache-store-misses,0,100,,
+0.586562354,382055,,l2_rqsts.demand_data_rd_hit,17914090,59,,
+0.586562354,85612,,l2_rqsts.demand_data_rd_miss,4708319,15,,
+0.586562354,57833,,LLC-loads,4503160,15,,
+0.586562354,718,,LLC-load-misses,5232682,17,1.24,of all LL-cache accesses
+0.586562354,584703,,LLC-stores,3720231,12,,
+0.586562354,83017,,LLC-store-misses,3680081,12,,
+0.586562354,2569254,,dTLB-loads,5677521,19,,
+0.586562354,212052,,dTLB-load-misses,7674988,25,8.25,of all dTLB cache accesses
+0.586562354,1983032,,branch-loads,9672878,32,,
+0.586562354,454,,branch-load-misses,11671500,39,,
+0.596822619,53516010,,cpu-cycles,4932194,40,,
+0.596822619,5444109,,instructions,4938269,40,0.1,insn per cycle
+0.596822619,1892133,,cache-references,5255994,43,,
+0.596822619,553805,,cache-misses,6255535,51,29.27,of all cache refs
+0.596822619,2040965,,L1-dcache-loads,5776289,47,,
+0.596822619,973852,,L1-dcache-load-misses,5079701,42,47.72,of all L1-dcache accesses
+0.596822619,614110,,L1-dcache-stores,5073424,42,,
+0.596822619,<not supported>,,L1-dcache-store-misses,0,100,,
+0.596822619,222386,,l2_rqsts.demand_data_rd_hit,5029790,41,,
+0.596822619,218801,,l2_rqsts.demand_data_rd_miss,3261414,27,,
+0.596822619,220084,,LLC-loads,3960909,32,,
+0.596822619,1241,,LLC-load-misses,3961080,32,0.56,of all LL-cache accesses
+0.596822619,789373,,LLC-stores,2000363,16,,
+0.596822619,310501,,LLC-store-misses,1999440,16,,
+0.596822619,2819010,,dTLB-loads,2999933,24,,
+0.596822619,252975,,dTLB-load-misses,4000172,33,8.97,of all dTLB cache accesses
+0.596822619,944139,,branch-loads,4974590,41,,
+0.596822619,89,,branch-load-misses,4977304,41,,
+0.608867787,287058069,,cpu-cycles,37425265,54,,
+0.608867787,73029254,,instructions,39499408,57,0.25,insn per cycle
+0.608867787,1020346,,cache-references,41517674,60,,
+0.608867787,518228,,cache-misses,43655099,62,50.79,of all cache refs
+0.608867787,18560375,,L1-dcache-loads,38762074,55,,
+0.608867787,1782147,,L1-dcache-load-misses,35329110,50,9.6,of all L1-dcache accesses
+0.608867787,9629605,,L1-dcache-stores,32188519,46,,
+0.608867787,<not supported>,,L1-dcache-store-misses,0,100,,
+0.608867787,424289,,l2_rqsts.demand_data_rd_hit,30464245,43,,
+0.608867787,67534,,l2_rqsts.demand_data_rd_miss,13726455,19,,
+0.608867787,3960,,LLC-loads,16963164,24,,
+0.608867787,1081,,LLC-load-misses,19976233,28,27.3,of all LL-cache accesses
+0.608867787,1340,,LLC-stores,11759015,16,,
+0.608867787,2360,,LLC-store-misses,11762942,16,,
+0.608867787,8803039,,dTLB-loads,17482292,25,,
+0.608867787,1807,,dTLB-load-misses,23488659,33,0.02,of all dTLB cache accesses
+0.608867787,11829658,,branch-loads,28847387,41,,
+0.608867787,15281,,branch-load-misses,33996753,48,,
+0.619092843,501249105,,cpu-cycles,43288074,35,,
+0.619092843,158867321,,instructions,53979013,44,0.32,insn per cycle
+0.619092843,275406,,cache-references,65064083,54,,
+0.619092843,127907,,cache-misses,75026784,62,46.44,of all cache refs
+0.619092843,43819125,,L1-dcache-loads,80305094,66,,
+0.619092843,409921,,L1-dcache-load-misses,83491020,69,0.94,of all L1-dcache accesses
+0.619092843,22301552,,L1-dcache-stores,84355968,70,,
+0.619092843,<not supported>,,L1-dcache-store-misses,0,100,,
+0.619092843,87644,,l2_rqsts.demand_data_rd_hit,86095224,71,,
+0.619092843,20387,,l2_rqsts.demand_data_rd_miss,28317532,23,,
+0.619092843,20382,,LLC-loads,24578357,20,,
+0.619092843,8819,,LLC-load-misses,21030643,17,43.27,of all LL-cache accesses
+0.619092843,4397,,LLC-stores,7305322,6,,
+0.619092843,107,,LLC-store-misses,8930946,7,,
+0.619092843,18702853,,dTLB-loads,14875698,12,,
+0.619092843,1524,,dTLB-load-misses,20124927,16,0.01,of all dTLB cache accesses
+0.619092843,31461402,,branch-loads,26059021,21,,
+0.619092843,6923037,,branch-load-misses,33897767,28,,
+0.629290911,500743812,,cpu-cycles,64214329,53,,
+0.629290911,274579998,,instructions,70032066,58,0.55,insn per cycle
+0.629290911,277759,,cache-references,74476942,61,,
+0.629290911,108131,,cache-misses,78137704,64,38.93,of all cache refs
+0.629290911,58481511,,L1-dcache-loads,71303845,59,,
+0.629290911,365577,,L1-dcache-load-misses,64306858,53,0.63,of all L1-dcache accesses
+0.629290911,26240532,,L1-dcache-stores,59918958,49,,
+0.629290911,<not supported>,,L1-dcache-store-misses,0,100,,
+0.629290911,84702,,l2_rqsts.demand_data_rd_hit,55872938,46,,
+0.629290911,20963,,l2_rqsts.demand_data_rd_miss,21702675,17,,
+0.629290911,22265,,LLC-loads,24303217,20,,
+0.629290911,10853,,LLC-load-misses,28021291,23,48.74,of all LL-cache accesses
+0.629290911,2606,,LLC-stores,20218705,16,,
+0.629290911,385,,LLC-store-misses,22581941,18,,
+0.629290911,58094736,,dTLB-loads,32849299,27,,
+0.629290911,3061,,dTLB-load-misses,42426266,35,0.01,of all dTLB cache accesses
+0.629290911,65392066,,branch-loads,50871556,42,,
+0.629290911,14836799,,branch-load-misses,58350242,48,,
+0.6395345,484502792,,cpu-cycles,29212999,24,,
+0.6395345,269144258,,instructions,35433605,30,0.56,insn per cycle
+0.6395345,292661,,cache-references,42963929,36,,
+0.6395345,113295,,cache-misses,52081219,44,38.71,of all cache refs
+0.6395345,57008969,,L1-dcache-loads,57319161,49,,
+0.6395345,363932,,L1-dcache-load-misses,64805393,55,0.64,of all L1-dcache accesses
+0.6395345,25337045,,L1-dcache-stores,72221507,61,,
+0.6395345,<not supported>,,L1-dcache-store-misses,0,100,,
+0.6395345,82183,,l2_rqsts.demand_data_rd_hit,78291056,67,,
+0.6395345,20954,,l2_rqsts.demand_data_rd_miss,40465514,34,,
+0.6395345,22491,,LLC-loads,36796536,31,,
+0.6395345,13649,,LLC-load-misses,32706920,28,60.69,of all LL-cache accesses
+0.6395345,4316,,LLC-stores,11922153,10,,
+0.6395345,1077,,LLC-store-misses,8771550,7,,
+0.6395345,57110327,,dTLB-loads,11960686,10,,
+0.6395345,3775,,dTLB-load-misses,15587177,13,0.01,of all dTLB cache accesses
+0.6395345,63834085,,branch-loads,19790860,16,,
+0.6395345,14112917,,branch-load-misses,24326809,20,,
+0.649764575,502515462,,cpu-cycles,68576078,56,,
+0.649764575,275492256,,instructions,77412009,64,0.55,insn per cycle
+0.649764575,284513,,cache-references,85128898,70,,
+0.649764575,109463,,cache-misses,91120019,75,38.47,of all cache refs
+0.649764575,58386248,,L1-dcache-loads,90267515,74,,
+0.649764575,389134,,L1-dcache-load-misses,85892366,71,0.67,of all L1-dcache accesses
+0.649764575,26158844,,L1-dcache-stores,79863132,66,,
+0.649764575,<not supported>,,L1-dcache-store-misses,0,100,,
+0.649764575,84823,,l2_rqsts.demand_data_rd_hit,72980467,60,,
+0.649764575,19345,,l2_rqsts.demand_data_rd_miss,13847648,11,,
+0.649764575,22688,,LLC-loads,14537988,12,,
+0.649764575,12027,,LLC-load-misses,16833459,13,53.01,of all LL-cache accesses
+0.649764575,3163,,LLC-stores,12126811,10,,
+0.649764575,684,,LLC-store-misses,14853719,12,,
+0.649764575,58946364,,dTLB-loads,24124582,19,,
+0.649764575,3440,,dTLB-load-misses,34379652,28,0.01,of all dTLB cache accesses
+0.649764575,66078081,,branch-loads,45633481,37,,
+0.649764575,14842768,,branch-load-misses,57478704,47,,
+0.659976946,495044779,,cpu-cycles,39951789,33,,
+0.659976946,270167736,,instructions,43266406,36,0.55,insn per cycle
+0.659976946,291415,,cache-references,47398633,39,,
+0.659976946,114834,,cache-misses,53441367,44,39.41,of all cache refs
+0.659976946,56795853,,L1-dcache-loads,50526281,42,,
+0.659976946,429358,,L1-dcache-load-misses,50006519,41,0.76,of all L1-dcache accesses
+0.659976946,25045304,,L1-dcache-stores,52788747,44,,
+0.659976946,<not supported>,,L1-dcache-store-misses,0,100,,
+0.659976946,83219,,l2_rqsts.demand_data_rd_hit,56868501,47,,
+0.659976946,21956,,l2_rqsts.demand_data_rd_miss,38611452,32,,
+0.659976946,21648,,LLC-loads,42318249,35,,
+0.659976946,13101,,LLC-load-misses,43233545,36,60.52,of all LL-cache accesses
+0.659976946,2861,,LLC-stores,19117784,16,,
+0.659976946,816,,LLC-store-misses,17272121,14,,
+0.659976946,57390051,,dTLB-loads,23611287,19,,
+0.659976946,3247,,dTLB-load-misses,29596694,24,0.01,of all dTLB cache accesses
+0.659976946,64698271,,branch-loads,33969569,28,,
+0.659976946,14674428,,branch-load-misses,37223907,31,,
+0.673909995,666424288,,cpu-cycles,59190442,36,,
+0.673909995,364498069,,instructions,70917833,44,0.55,insn per cycle
+0.673909995,376292,,cache-references,81839929,51,,
+0.673909995,137429,,cache-misses,92787465,57,36.52,of all cache refs
+0.673909995,77869632,,L1-dcache-loads,94841546,59,,
+0.673909995,535998,,L1-dcache-load-misses,97826936,61,0.69,of all L1-dcache accesses
+0.673909995,34761548,,L1-dcache-stores,100965200,63,,
+0.673909995,<not supported>,,L1-dcache-store-misses,0,100,,
+0.673909995,112001,,l2_rqsts.demand_data_rd_hit,103841629,64,,
+0.673909995,25538,,l2_rqsts.demand_data_rd_miss,40970170,25,,
+0.673909995,24593,,LLC-loads,37096086,23,,
+0.673909995,13308,,LLC-load-misses,34505460,21,54.11,of all LL-cache accesses
+0.673909995,4478,,LLC-stores,17226013,10,,
+0.673909995,456,,LLC-store-misses,16819017,10,,
+0.673909995,77095815,,dTLB-loads,24630447,15,,
+0.673909995,4154,,dTLB-load-misses,31700112,19,0.01,of all dTLB cache accesses
+0.673909995,87098649,,branch-loads,39408820,24,,
+0.673909995,19799705,,branch-load-misses,48224051,30,,
+0.684130301,485173966,,cpu-cycles,62972235,53,,
+0.684130301,272052749,,instructions,72727558,62,0.56,insn per cycle
+0.684130301,300446,,cache-references,81176183,69,,
+0.684130301,116557,,cache-misses,88384813,75,38.79,of all cache refs
+0.684130301,57160755,,L1-dcache-loads,90369735,77,,
+0.684130301,401689,,L1-dcache-load-misses,88971253,76,0.7,of all L1-dcache accesses
+0.684130301,25307022,,L1-dcache-stores,82902916,71,,
+0.684130301,<not supported>,,L1-dcache-store-misses,0,100,,
+0.684130301,83528,,l2_rqsts.demand_data_rd_hit,75131357,64,,
+0.684130301,22627,,l2_rqsts.demand_data_rd_miss,12523015,10,,
+0.684130301,23232,,LLC-loads,10873269,9,,
+0.684130301,12043,,LLC-load-misses,12946096,11,51.84,of all LL-cache accesses
+0.684130301,1716,,LLC-stores,9933305,8,,
+0.684130301,551,,LLC-store-misses,11854854,10,,
+0.684130301,58347757,,dTLB-loads,20690600,17,,
+0.684130301,3296,,dTLB-load-misses,30597571,26,0.01,of all dTLB cache accesses
+0.684130301,65148746,,branch-loads,41456686,35,,
+0.684130301,14469318,,branch-load-misses,52423984,44,,
+0.694335452,494693579,,cpu-cycles,41980923,35,,
+0.694335452,278335660,,instructions,44273021,37,0.56,insn per cycle
+0.694335452,316691,,cache-references,47872667,40,,
+0.694335452,126914,,cache-misses,52698086,44,40.08,of all cache refs
+0.694335452,58396303,,L1-dcache-loads,47298172,39,,
+0.694335452,419935,,L1-dcache-load-misses,44855215,37,0.72,of all L1-dcache accesses
+0.694335452,25545532,,L1-dcache-stores,47133095,39,,
+0.694335452,<not supported>,,L1-dcache-store-misses,0,100,,
+0.694335452,84894,,l2_rqsts.demand_data_rd_hit,51816271,43,,
+0.694335452,17553,,l2_rqsts.demand_data_rd_miss,38001651,31,,
+0.694335452,18345,,LLC-loads,43532478,36,,
+0.694335452,9928,,LLC-load-misses,45793060,38,54.12,of all LL-cache accesses
+0.694335452,2592,,LLC-stores,21884179,18,,
+0.694335452,537,,LLC-store-misses,19511665,16,,
+0.694335452,59052760,,dTLB-loads,26457702,22,,
+0.694335452,3316,,dTLB-load-misses,32468350,27,0.01,of all dTLB cache accesses
+0.694335452,66566118,,branch-loads,37517038,31,,
+0.694335452,14568938,,branch-load-misses,40609684,34,,
+0.704555829,484381058,,cpu-cycles,43071802,36,,
+0.704555829,268267304,,instructions,53536931,45,0.55,insn per cycle
+0.704555829,282971,,cache-references,64441159,55,,
+0.704555829,106986,,cache-misses,75010603,64,37.81,of all cache refs
+0.704555829,57022498,,L1-dcache-loads,82430039,70,,
+0.704555829,393120,,L1-dcache-load-misses,87705094,75,0.69,of all L1-dcache accesses
+0.704555829,25581372,,L1-dcache-stores,89568464,77,,
+0.704555829,<not supported>,,L1-dcache-store-misses,0,100,,
+0.704555829,78555,,l2_rqsts.demand_data_rd_hit,89761750,77,,
+0.704555829,21458,,l2_rqsts.demand_data_rd_miss,26422647,22,,
+0.704555829,22736,,LLC-loads,21419168,18,,
+0.704555829,11810,,LLC-load-misses,16831039,14,51.94,of all LL-cache accesses
+0.704555829,4305,,LLC-stores,4271901,3,,
+0.704555829,383,,LLC-store-misses,5159552,4,,
+0.704555829,55907367,,dTLB-loads,9922175,8,,
+0.704555829,3348,,dTLB-load-misses,15708895,13,0.01,of all dTLB cache accesses
+0.704555829,62538533,,branch-loads,22645701,19,,
+0.704555829,14319776,,branch-load-misses,32377496,27,,
+0.714764513,505709016,,cpu-cycles,63706459,52,,
+0.714764513,167192330,,instructions,70164568,57,0.33,insn per cycle
+0.714764513,164561,,cache-references,74961951,61,,
+0.714764513,61360,,cache-misses,78099777,64,37.29,of all cache refs
+0.714764513,33749159,,L1-dcache-loads,71069266,58,,
+0.714764513,210400,,L1-dcache-load-misses,63794890,52,0.62,of all L1-dcache accesses
+0.714764513,14921204,,L1-dcache-stores,58278488,47,,
+0.714764513,<not supported>,,L1-dcache-store-misses,0,100,,
+0.714764513,47608,,l2_rqsts.demand_data_rd_hit,54404252,44,,
+0.714764513,13959,,l2_rqsts.demand_data_rd_miss,21469770,17,,
+0.714764513,13861,,LLC-loads,26442069,21,,
+0.714764513,6676,,LLC-load-misses,31345148,25,48.16,of all LL-cache accesses
+0.714764513,1521,,LLC-stores,20496669,16,,
+0.714764513,240,,LLC-store-misses,21251627,17,,
+0.714764513,37221459,,dTLB-loads,32160126,26,,
+0.714764513,2054,,dTLB-load-misses,42072382,34,0.01,of all dTLB cache accesses
+0.714764513,43950007,,branch-loads,50734271,41,,
+0.714764513,8638293,,branch-load-misses,57691022,47,,
+0.726918828,440960187,,cpu-cycles,32300405,30,,
+0.726918828,139322328,,instructions,38680047,36,0.32,insn per cycle
+0.726918828,613702,,cache-references,46041740,43,,
+0.726918828,366600,,cache-misses,54772780,51,59.74,of all cache refs
+0.726918828,19512115,,L1-dcache-loads,58645260,55,,
+0.726918828,256993,,L1-dcache-load-misses,62542607,58,1.32,of all L1-dcache accesses
+0.726918828,5551349,,L1-dcache-stores,66429175,62,,
+0.726918828,<not supported>,,L1-dcache-store-misses,0,100,,
+0.726918828,35738,,l2_rqsts.demand_data_rd_hit,70238728,66,,
+0.726918828,9852,,l2_rqsts.demand_data_rd_miss,30483311,28,,
+0.726918828,11224,,LLC-loads,26717063,25,,
+0.726918828,8407,,LLC-load-misses,24463274,22,74.9,of all LL-cache accesses
+0.726918828,901036,,LLC-stores,12038218,11,,
+0.726918828,892874,,LLC-store-misses,11353445,10,,
+0.726918828,33979463,,dTLB-loads,15665799,14,,
+0.726918828,4888,,dTLB-load-misses,19306285,17,0.01,of all dTLB cache accesses
+0.726918828,33265555,,branch-loads,22693899,20,,
+0.726918828,4105943,,branch-load-misses,27959040,25,,
+0.737521017,498693058,,cpu-cycles,52314909,43,,
+0.737521017,119098019,,instructions,59654580,48,0.24,insn per cycle
+0.737521017,3528005,,cache-references,66561502,53,,
+0.737521017,2976884,,cache-misses,74061712,59,84.38,of all cache refs
+0.737521017,31667229,,L1-dcache-loads,75295327,60,,
+0.737521017,3818384,,L1-dcache-load-misses,76399924,61,12.06,of all L1-dcache accesses
+0.737521017,18169542,,L1-dcache-stores,77994486,63,,
+0.737521017,<not supported>,,L1-dcache-store-misses,0,100,,
+0.737521017,1005236,,l2_rqsts.demand_data_rd_hit,78468729,61,,
+0.737521017,272071,,l2_rqsts.demand_data_rd_miss,34911788,26,,
+0.737521017,927514,,LLC-loads,38638597,26,,
+0.737521017,801313,,LLC-load-misses,36428467,25,86.39,of all LL-cache accesses
+0.737521017,1698594,,LLC-stores,12802117,8,,
+0.737521017,1494760,,LLC-store-misses,12512737,8,,
+0.737521017,36850962,,dTLB-loads,19764703,13,,
+0.737521017,35649,,dTLB-load-misses,29220460,20,0.1,of all dTLB cache accesses
+0.737521017,26171454,,branch-loads,38940955,27,,
+0.737521017,1000289,,branch-load-misses,49045880,34,,
+0.750462973,599444308,,cpu-cycles,63014011,43,,
+0.750462973,79370797,,instructions,70791113,50,0.13,insn per cycle
+0.750462973,1616717,,cache-references,78600775,55,,
+0.750462973,1307217,,cache-misses,85210694,60,80.86,of all cache refs
+0.750462973,19588668,,L1-dcache-loads,81405330,57,,
+0.750462973,1611977,,L1-dcache-load-misses,78422906,55,8.23,of all L1-dcache accesses
+0.750462973,8626585,,L1-dcache-stores,75772589,53,,
+0.750462973,<not supported>,,L1-dcache-store-misses,0,100,,
+0.750462973,382601,,l2_rqsts.demand_data_rd_hit,74206091,54,,
+0.750462973,103971,,l2_rqsts.demand_data_rd_miss,26526182,20,,
+0.750462973,233009,,LLC-loads,24357528,20,,
+0.750462973,235207,,LLC-load-misses,27070778,22,100.94,of all LL-cache accesses
+0.750462973,577709,,LLC-stores,16861916,14,,
+0.750462973,650030,,LLC-store-misses,18106064,15,,
+0.750462973,18971060,,dTLB-loads,26681287,22,,
+0.750462973,13722,,dTLB-load-misses,34313083,29,0.07,of all dTLB cache accesses
+0.750462973,13536112,,branch-loads,41685888,35,,
+0.750462973,310477,,branch-load-misses,49128921,41,,
+0.760660461,483871247,,cpu-cycles,41763768,35,,
+0.760660461,29317518,,instructions,48973517,42,0.06,insn per cycle
+0.760660461,187767,,cache-references,56499185,48,,
+0.760660461,195470,,cache-misses,64486224,55,104.1,of all cache refs
+0.760660461,11882307,,L1-dcache-loads,65499044,56,,
+0.760660461,562012,,L1-dcache-load-misses,66932826,57,4.73,of all L1-dcache accesses
+0.760660461,8743140,,L1-dcache-stores,69361140,59,,
+0.760660461,<not supported>,,L1-dcache-store-misses,0,100,,
+0.760660461,130486,,l2_rqsts.demand_data_rd_hit,70962641,61,,
+0.760660461,321803,,l2_rqsts.demand_data_rd_miss,28659923,24,,
+0.760660461,266290,,LLC-loads,27908509,24,,
+0.760660461,34488,,LLC-load-misses,28057359,24,12.95,of all LL-cache accesses
+0.760660461,10749,,LLC-stores,14962258,12,,
+0.760660461,5006,,LLC-store-misses,13776696,11,,
+0.760660461,4310597,,dTLB-loads,18963113,16,,
+0.760660461,728,,dTLB-load-misses,24124238,20,0.02,of all dTLB cache accesses
+0.760660461,7321387,,branch-loads,29499200,25,,
+0.760660461,357875,,branch-load-misses,35441309,30,,
+0.771939658,544406927,,cpu-cycles,58574205,44,,
+0.771939658,156257925,,instructions,65849096,50,0.29,insn per cycle
+0.771939658,6542970,,cache-references,73020833,55,,
+0.771939658,1954663,,cache-misses,81064002,61,29.87,of all cache refs
+0.771939658,39010114,,L1-dcache-loads,82657360,62,,
+0.771939658,4977639,,L1-dcache-load-misses,83373072,63,12.76,of all L1-dcache accesses
+0.771939658,6552226,,L1-dcache-stores,81553666,61,,
+0.771939658,<not supported>,,L1-dcache-store-misses,0,100,,
+0.771939658,1099447,,l2_rqsts.demand_data_rd_hit,79735775,60,,
+0.771939658,1383884,,l2_rqsts.demand_data_rd_miss,29823522,22,,
+0.771939658,2099767,,LLC-loads,26787031,20,,
+0.771939658,519781,,LLC-load-misses,25502786,19,24.75,of all LL-cache accesses
+0.771939658,343428,,LLC-stores,13301399,10,,
+0.771939658,50099,,LLC-store-misses,15394687,11,,
+0.771939658,34684480,,dTLB-loads,24634806,18,,
+0.771939658,181506,,dTLB-load-misses,33606197,25,0.52,of all dTLB cache accesses
+0.771939658,29309528,,branch-loads,42672482,32,,
+0.771939658,3429981,,branch-load-misses,50703505,38,,
+0.782174451,488134639,,cpu-cycles,49951013,42,,
+0.782174451,102548596,,instructions,55486345,47,0.21,insn per cycle
+0.782174451,4690769,,cache-references,61430848,52,,
+0.782174451,1653597,,cache-misses,67393328,57,35.25,of all cache refs
+0.782174451,28039170,,L1-dcache-loads,66099950,56,,
+0.782174451,3573838,,L1-dcache-load-misses,65682160,55,12.75,of all L1-dcache accesses
+0.782174451,4756373,,L1-dcache-stores,65946182,56,,
+0.782174451,<not supported>,,L1-dcache-store-misses,0,100,,
+0.782174451,964484,,l2_rqsts.demand_data_rd_hit,65254088,55,,
+0.782174451,1024980,,l2_rqsts.demand_data_rd_miss,28620822,24,,
+0.782174451,1217063,,LLC-loads,30232085,25,,
+0.782174451,464360,,LLC-load-misses,31125433,26,38.15,of all LL-cache accesses
+0.782174451,339544,,LLC-stores,15277318,13,,
+0.782174451,26391,,LLC-store-misses,13681875,11,,
+0.782174451,34247347,,dTLB-loads,20458230,17,,
+0.782174451,143013,,dTLB-load-misses,28223592,24,0.42,of all dTLB cache accesses
+0.782174451,20188006,,branch-loads,36247600,30,,
+0.782174451,2242991,,branch-load-misses,43817336,37,,
+0.792393164,437027384,,cpu-cycles,38684320,36,,
+0.792393164,26460127,,instructions,47075751,44,0.06,insn per cycle
+0.792393164,243413,,cache-references,55527318,52,,
+0.792393164,169639,,cache-misses,63437734,60,69.69,of all cache refs
+0.792393164,4774804,,L1-dcache-loads,66683453,63,,
+0.792393164,235625,,L1-dcache-load-misses,68504370,65,4.93,of all L1-dcache accesses
+0.792393164,204317,,L1-dcache-stores,69510505,66,,
+0.792393164,<not supported>,,L1-dcache-store-misses,0,100,,
+0.792393164,33591,,l2_rqsts.demand_data_rd_hit,71096462,67,,
+0.792393164,80330,,l2_rqsts.demand_data_rd_miss,24659778,23,,
+0.792393164,105479,,LLC-loads,23326447,22,,
+0.792393164,57457,,LLC-load-misses,21896845,20,54.47,of all LL-cache accesses
+0.792393164,1868,,LLC-stores,8791266,8,,
+0.792393164,366,,LLC-store-misses,8900240,8,,
+0.792393164,2998034,,dTLB-loads,13870468,13,,
+0.792393164,8733,,dTLB-load-misses,18852551,17,0.29,of all dTLB cache accesses
+0.792393164,7257708,,branch-loads,24480593,23,,
+0.792393164,315899,,branch-load-misses,31297079,29,,
+0.802670766,460756422,,cpu-cycles,52943828,47,,
+0.802670766,21161279,,instructions,58519511,52,0.05,insn per cycle
+0.802670766,25141,,cache-references,63017580,56,,
+0.802670766,12953,,cache-misses,67839543,61,51.52,of all cache refs
+0.802670766,3120018,,L1-dcache-loads,63687929,57,,
+0.802670766,17787,,L1-dcache-load-misses,59379688,53,0.57,of all L1-dcache accesses
+0.802670766,153772,,L1-dcache-stores,56880394,51,,
+0.802670766,<not supported>,,L1-dcache-store-misses,0,100,,
+0.802670766,7499,,l2_rqsts.demand_data_rd_hit,54115323,48,,
+0.802670766,5887,,l2_rqsts.demand_data_rd_miss,22386455,20,,
+0.802670766,6154,,LLC-loads,26193036,23,,
+0.802670766,2423,,LLC-load-misses,28919900,26,39.37,of all LL-cache accesses
+0.802670766,1170,,LLC-stores,16609562,14,,
+0.802670766,321,,LLC-store-misses,17269564,15,,
+0.802670766,3093680,,dTLB-loads,25267424,22,,
+0.802670766,146,,dTLB-load-misses,34066913,30,0,of all dTLB cache accesses
+0.802670766,5957431,,branch-loads,40843796,36,,
+0.802670766,2759,,branch-load-misses,47839123,43,,
+0.812887844,485112764,,cpu-cycles,36026683,30,,
+0.812887844,138751875,,instructions,43246447,36,0.29,insn per cycle
+0.812887844,3301704,,cache-references,51753886,44,,
+0.812887844,2181196,,cache-misses,59800861,51,66.06,of all cache refs
+0.812887844,32551409,,L1-dcache-loads,61965367,52,,
+0.812887844,4007252,,L1-dcache-load-misses,66528730,56,12.31,of all L1-dcache accesses
+0.812887844,4715315,,L1-dcache-stores,70556047,60,,
+0.812887844,<not supported>,,L1-dcache-store-misses,0,100,,
+0.812887844,1610245,,l2_rqsts.demand_data_rd_hit,75186997,64,,
+0.812887844,485578,,l2_rqsts.demand_data_rd_miss,35881960,30,,
+0.812887844,539533,,LLC-loads,34268138,29,,
+0.812887844,290922,,LLC-load-misses,31505626,26,53.92,of all LL-cache accesses
+0.812887844,35677,,LLC-stores,12292226,10,,
+0.812887844,14156,,LLC-store-misses,10346762,8,,
+0.812887844,39436339,,dTLB-loads,15337821,13,,
+0.812887844,100817,,dTLB-load-misses,19628262,16,0.26,of all dTLB cache accesses
+0.812887844,30777551,,branch-loads,23938461,20,,
+0.812887844,3563050,,branch-load-misses,29164728,24,,
+0.833865546,933492541,,cpu-cycles,97789591,43,,
+0.833865546,71987205,,instructions,109930963,48,0.08,insn per cycle
+0.833865546,1216934,,cache-references,121033970,53,,
+0.833865546,1042270,,cache-misses,133719266,59,85.65,of all cache refs
+0.833865546,15594362,,L1-dcache-loads,132709975,58,,
+0.833865546,1851921,,L1-dcache-load-misses,129702995,57,11.88,of all L1-dcache accesses
+0.833865546,1434196,,L1-dcache-stores,130413246,57,,
+0.833865546,<not supported>,,L1-dcache-store-misses,0,100,,
+0.833865546,946190,,l2_rqsts.demand_data_rd_hit,128611423,57,,
+0.833865546,293653,,l2_rqsts.demand_data_rd_miss,51473320,22,,
+0.833865546,396302,,LLC-loads,51550647,22,,
+0.833865546,270329,,LLC-load-misses,51698359,22,68.21,of all LL-cache accesses
+0.833865546,10555,,LLC-stores,27949794,12,,
+0.833865546,975,,LLC-store-misses,30045846,13,,
+0.833865546,19755646,,dTLB-loads,43281524,19,,
+0.833865546,48533,,dTLB-load-misses,57155957,25,0.25,of all dTLB cache accesses
+0.833865546,19799765,,branch-loads,72029492,31,,
+0.833865546,1562566,,branch-load-misses,85357679,37,,
+0.844311343,505192891,,cpu-cycles,52749114,43,,
+0.844311343,138272103,,instructions,61497259,50,0.27,insn per cycle
+0.844311343,3007397,,cache-references,70689356,57,,
+0.844311343,2226489,,cache-misses,79015152,64,74.03,of all cache refs
+0.844311343,33622984,,L1-dcache-loads,81694259,67,,
+0.844311343,4764238,,L1-dcache-load-misses,81611789,67,14.17,of all L1-dcache accesses
+0.844311343,4246546,,L1-dcache-stores,78753702,64,,
+0.844311343,<not supported>,,L1-dcache-store-misses,0,100,,
+0.844311343,2530549,,l2_rqsts.demand_data_rd_hit,77206003,63,,
+0.844311343,435456,,l2_rqsts.demand_data_rd_miss,23215069,19,,
+0.844311343,583928,,LLC-loads,22670429,18,,
+0.844311343,322446,,LLC-load-misses,23530034,19,55.22,of all LL-cache accesses
+0.844311343,29173,,LLC-stores,11135565,9,,
+0.844311343,47491,,LLC-store-misses,11447204,9,,
+0.844311343,35985598,,dTLB-loads,19144948,15,,
+0.844311343,74558,,dTLB-load-misses,26574761,21,0.21,of all dTLB cache accesses
+0.844311343,28990030,,branch-loads,34507677,28,,
+0.844311343,3455432,,branch-load-misses,43445640,35,,
+0.854527194,484489775,,cpu-cycles,49151458,42,,
+0.854527194,68771415,,instructions,55057872,47,0.14,insn per cycle
+0.854527194,1818651,,cache-references,60927911,52,,
+0.854527194,1232605,,cache-misses,66529174,56,67.78,of all cache refs
+0.854527194,18430090,,L1-dcache-loads,64630697,55,,
+0.854527194,1976101,,L1-dcache-load-misses,62235938,53,10.72,of all L1-dcache accesses
+0.854527194,3362335,,L1-dcache-stores,61531443,52,,
+0.854527194,<not supported>,,L1-dcache-store-misses,0,100,,
+0.854527194,662744,,l2_rqsts.demand_data_rd_hit,61860451,52,,
+0.854527194,525247,,l2_rqsts.demand_data_rd_miss,29541972,25,,
+0.854527194,655429,,LLC-loads,30796068,26,,
+0.854527194,376220,,LLC-load-misses,30931884,26,57.4,of all LL-cache accesses
+0.854527194,27967,,LLC-stores,15149835,12,,
+0.854527194,3380,,LLC-store-misses,16266930,13,,
+0.854527194,16496308,,dTLB-loads,24559207,20,,
+0.854527194,120030,,dTLB-load-misses,32244083,27,0.73,of all dTLB cache accesses
+0.854527194,16222600,,branch-loads,38645217,33,,
+0.854527194,1695321,,branch-load-misses,43785142,37,,
+0.864750527,489231925,,cpu-cycles,47052084,39,,
+0.864750527,114685781,,instructions,54974419,46,0.23,insn per cycle
+0.864750527,5612141,,cache-references,62489176,52,,
+0.864750527,1582889,,cache-misses,70374008,59,28.2,of all cache refs
+0.864750527,28508477,,L1-dcache-loads,70665806,59,,
+0.864750527,3788739,,L1-dcache-load-misses,71299974,60,13.29,of all L1-dcache accesses
+0.864750527,4241026,,L1-dcache-stores,73454765,62,,
+0.864750527,<not supported>,,L1-dcache-store-misses,0,100,,
+0.864750527,999289,,l2_rqsts.demand_data_rd_hit,74134206,62,,
+0.864750527,1321237,,l2_rqsts.demand_data_rd_miss,28052074,23,,
+0.864750527,1490765,,LLC-loads,26940344,22,,
+0.864750527,267521,,LLC-load-misses,25792429,21,17.95,of all LL-cache accesses
+0.864750527,338533,,LLC-stores,13327581,11,,
+0.864750527,34496,,LLC-store-misses,13841412,11,,
+0.864750527,34523295,,dTLB-loads,19194685,16,,
+0.864750527,147254,,dTLB-load-misses,25483078,21,0.43,of all dTLB cache accesses
+0.864750527,22182948,,branch-loads,32084483,27,,
+0.864750527,2856990,,branch-load-misses,39357833,33,,
+0.875144443,461193837,,cpu-cycles,46513416,41,,
+0.875144443,31467155,,instructions,52573314,47,0.07,insn per cycle
+0.875144443,664817,,cache-references,59515934,53,,
+0.875144443,484405,,cache-misses,65837792,59,72.86,of all cache refs
+0.875144443,7144024,,L1-dcache-loads,65750870,59,,
+0.875144443,666756,,L1-dcache-load-misses,67034928,60,9.33,of all L1-dcache accesses
+0.875144443,947061,,L1-dcache-stores,65595677,59,,
+0.875144443,<not supported>,,L1-dcache-store-misses,0,100,,
+0.875144443,192901,,l2_rqsts.demand_data_rd_hit,65268291,58,,
+0.875144443,110355,,l2_rqsts.demand_data_rd_miss,24805967,22,,
+0.875144443,153503,,LLC-loads,24042816,21,,
+0.875144443,147730,,LLC-load-misses,25398502,23,96.24,of all LL-cache accesses
+0.875144443,10525,,LLC-stores,13957161,12,,
+0.875144443,368,,LLC-store-misses,12548857,11,,
+0.875144443,6284591,,dTLB-loads,19475604,17,,
+0.875144443,18841,,dTLB-load-misses,25769567,23,0.3,of all dTLB cache accesses
+0.875144443,7572048,,branch-loads,32717394,29,,
+0.875144443,503821,,branch-load-misses,39807873,36,,
+0.88534978,442822943,,cpu-cycles,45636035,42,,
+0.88534978,30087571,,instructions,51493154,48,0.07,insn per cycle
+0.88534978,291611,,cache-references,56733240,53,,
+0.88534978,234926,,cache-misses,62513370,58,80.56,of all cache refs
+0.88534978,5135442,,L1-dcache-loads,62516205,58,,
+0.88534978,237914,,L1-dcache-load-misses,61143950,57,4.63,of all L1-dcache accesses
+0.88534978,168876,,L1-dcache-stores,61076544,57,,
+0.88534978,<not supported>,,L1-dcache-store-misses,0,100,,
+0.88534978,26280,,l2_rqsts.demand_data_rd_hit,60841363,56,,
+0.88534978,48006,,l2_rqsts.demand_data_rd_miss,25013345,23,,
+0.88534978,49047,,LLC-loads,26234945,24,,
+0.88534978,22384,,LLC-load-misses,26370409,24,45.64,of all LL-cache accesses
+0.88534978,1185,,LLC-stores,12529213,11,,
+0.88534978,523,,LLC-store-misses,12863651,12,,
+0.88534978,5055140,,dTLB-loads,19399530,18,,
+0.88534978,14297,,dTLB-load-misses,26108273,24,0.28,of all dTLB cache accesses
+0.88534978,8153846,,branch-loads,33086492,30,,
+0.88534978,506016,,branch-load-misses,40029415,37,,
+0.895605474,466443396,,cpu-cycles,41652851,37,,
+0.895605474,32451011,,instructions,48403940,43,0.07,insn per cycle
+0.895605474,22528,,cache-references,55889559,49,,
+0.895605474,6343,,cache-misses,63564488,56,28.16,of all cache refs
+0.895605474,5880741,,L1-dcache-loads,64075056,57,,
+0.895605474,18850,,L1-dcache-load-misses,65893986,58,0.32,of all L1-dcache accesses
+0.895605474,132268,,L1-dcache-stores,67119635,59,,
+0.895605474,<not supported>,,L1-dcache-store-misses,0,100,,
+0.895605474,8930,,l2_rqsts.demand_data_rd_hit,67602298,60,,
+0.895605474,2171,,l2_rqsts.demand_data_rd_miss,27510220,24,,
+0.895605474,2071,,LLC-loads,27868504,24,,
+0.895605474,924,,LLC-load-misses,27588569,24,44.62,of all LL-cache accesses
+0.895605474,1284,,LLC-stores,12968653,11,,
+0.895605474,877,,LLC-store-misses,11720648,10,,
+0.895605474,6514054,,dTLB-loads,17180101,15,,
+0.895605474,212,,dTLB-load-misses,23165402,20,0,of all dTLB cache accesses
+0.895605474,8014321,,branch-loads,28871158,25,,
+0.895605474,9234,,branch-load-misses,34746518,31,,
+0.906907044,505801555,,cpu-cycles,48048173,39,,
+0.906907044,22996194,,instructions,55331384,45,0.05,insn per cycle
+0.906907044,54433,,cache-references,63292233,51,,
+0.906907044,39593,,cache-misses,70569029,57,72.74,of all cache refs
+0.906907044,3462040,,L1-dcache-loads,71475079,58,,
+0.906907044,58299,,L1-dcache-load-misses,73337835,60,1.68,of all L1-dcache accesses
+0.906907044,187186,,L1-dcache-stores,72677551,59,,
+0.906907044,<not supported>,,L1-dcache-store-misses,0,100,,
+0.906907044,13294,,l2_rqsts.demand_data_rd_hit,72667845,59,,
+0.906907044,31488,,l2_rqsts.demand_data_rd_miss,29405653,24,,
+0.906907044,27841,,LLC-loads,28747004,23,,
+0.906907044,20391,,LLC-load-misses,28469377,23,73.24,of all LL-cache accesses
+0.906907044,2061,,LLC-stores,13617916,11,,
+0.906907044,292,,LLC-store-misses,12915617,10,,
+0.906907044,3420455,,dTLB-loads,20884598,17,,
+0.906907044,14687,,dTLB-load-misses,27838935,22,0.43,of all dTLB cache accesses
+0.906907044,6432132,,branch-loads,34120950,27,,
+0.906907044,2810,,branch-load-misses,40956165,33,,
+0.917097521,470555555,,cpu-cycles,55850491,49,,
+0.917097521,35204666,,instructions,61271606,54,0.07,insn per cycle
+0.917097521,168099,,cache-references,66307621,58,,
+0.917097521,126887,,cache-misses,71500574,62,75.48,of all cache refs
+0.917097521,6382921,,L1-dcache-loads,68543471,60,,
+0.917097521,169709,,L1-dcache-load-misses,63051452,55,2.66,of all L1-dcache accesses
+0.917097521,1488668,,L1-dcache-stores,59611759,52,,
+0.917097521,<not supported>,,L1-dcache-store-misses,0,100,,
+0.917097521,19566,,l2_rqsts.demand_data_rd_hit,58662422,51,,
+0.917097521,7892,,l2_rqsts.demand_data_rd_miss,22930167,20,,
+0.917097521,7164,,LLC-loads,24607339,21,,
+0.917097521,2406,,LLC-load-misses,26574945,23,33.58,of all LL-cache accesses
+0.917097521,1890,,LLC-stores,16042204,14,,
+0.917097521,333,,LLC-store-misses,18041393,15,,
+0.917097521,3948608,,dTLB-loads,27363621,24,,
+0.917097521,786,,dTLB-load-misses,34822965,30,0.02,of all dTLB cache accesses
+0.917097521,9734434,,branch-loads,43715999,38,,
+0.917097521,8960,,branch-load-misses,50864667,44,,
+0.925177118,219397208,,cpu-cycles,28986177,54,,
+0.925177118,39321322,,instructions,36496362,61,0.18,insn per cycle
+0.925177118,185781,,cache-references,43444539,65,,
+0.925177118,112022,,cache-misses,50935991,69,60.3,of all cache refs
+0.925177118,15030080,,L1-dcache-loads,54875476,69,,
+0.925177118,349298,,L1-dcache-load-misses,59460739,75,2.32,of all L1-dcache accesses
+0.925177118,9237153,,L1-dcache-stores,64734627,81,,
+0.925177118,<not supported>,,L1-dcache-store-misses,0,100,,
+0.925177118,63541,,l2_rqsts.demand_data_rd_hit,66311629,84,,
+0.925177118,88573,,l2_rqsts.demand_data_rd_miss,25536152,30,,
+0.925177118,53549,,LLC-loads,21905461,30,,
+0.925177118,8988,,LLC-load-misses,17908725,26,16.78,of all LL-cache accesses
+0.925177118,2228,,LLC-stores,7637180,10,,
+0.925177118,89,,LLC-store-misses,6643162,18,,
+0.925177118,1065197,,dTLB-loads,9274062,25,,
+0.925177118,176,,dTLB-load-misses,12888776,32,0.02,of all dTLB cache accesses
+0.925177118,2285446,,branch-loads,16877336,39,,
+0.925177118,4127,,branch-load-misses,21716500,47,,
