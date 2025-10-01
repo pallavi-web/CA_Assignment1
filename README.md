@@ -1,9 +1,9 @@
 README.txt
 
 HPCA Assignment 1
-	-by Nikhil Tayade & Pallavi Chauhan
-	-nikhiltayade@iisc.ac.in & pallavi2@iisc.ac.in
-	-25952 & 26144
+	-by Pallavi Chauhan & Nikhil Tayade
+	-pallavi2@iisc.ac.in & nikhiltayade@iisc.ac.in
+	-26144 & 25952
 	
 Description:
 This project involves performance analysis and benchmarking of matrix multiplication and BFS graph traversal algorithms on an 11th Gen Intel Core i5-11500 CPU system using Linux. It uses hardware performance counters for detailed measurement of cache/memory bandwidth, FLOPS, IPC, and CPI stacks. The project incorporates LIKWID microbenchmarks and perf tools to characterize hardware-software interaction.
